@@ -1,0 +1,1681 @@
+№	token	lemma	UPOS	XPOS	FEATS	HEAD	DEPREL	DEPS	MISC
+#sent_id: 1									
+#text: მე ვხედავ მზეს									
+#transliteration: me vxedav mzes									
+#ru_text: Я вижу солнце									
+1	მე	მე	PRON	_	PronType=Pers|Person=1|Number=Sing|Case=Nom	2	nsubj	_	Translit=me
+2	ვხედავ	ხედვა	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Pres|Subj=1Sing	0	root	_	Translit=vxedav
+3	მზეს	მზე	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	2	obj	_	Translit=mzes
+#sent_id: 2									
+#text: მამიდა									
+#transliteration: mamida									
+#ru_text: ТЕТЯ									
+1	მამიდა	მამიდა	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	0	root	_	Translit=mamida
+#sent_id: 3									
+#text: კახამბალის ხმელ ტოტზე მამალი ჩხართვი იჯდა და ისე გალობდა, მამიდამ საქმეს თავი დაანება, სამფეხა სკამი ეზოში გამოიტანა, დაჯდა და სმენად იქცა, მე კოინდარზე დავწექი და თვალები დავხუჭე.									
+#transliteration: k’axambalis xmel t’ot’ze mamali čxartvi iǯda da ise galobda, mamidam sakmes tavi daaneba, sampexa sk’ami ezoši gamoit’ana, daǯda da smenad ikсa, me k’oindarze davс’eki da tvalebi davxuč’e.									
+#ru_text: Кедровка на сухой ветке шпанской вишни пела так самозабвенно, с таким упоением, что тетя прервала работу, вынесла во двор треногий стульчик, уселась под деревом и обратилась в слух.									
+1	კახამბალის	კახამბალი	NOUN	_	Animacy=Inan|Number=Sing|Case=Gen	3	amod	_	Translit=k’axambalis
+2	ხმელ	ხმელი	ADJ	_	Degree=Pos|Number=Sing|Case=Dat	3	amod	_	Translit=xmel
+3-4	ტოტზე	_	_	_	_	_	_	_	_
+3	ტოტს	ტოტი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	7	obl	_	Translit=t’ot’s
+4	ზე	ზე	ADP	_	_	3	case	_	Translit=ze
+5	მამალი	მამალი	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	7	nsubj	_	Translit=mamali
+6	ჩხართვი	ჩხართვი	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	7	nsubj	_	Translit= čxartvi
+7	იჯდა	ზის	VERB	_	Aspect=Ipfv|Voice=AutoAct|Transitivity=Intr|VerbType=AbsStat|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	0	root	_	Translit= iǯda
+8	და	და	CCONJ	_	_	10	cc	_	Translit=da
+9	ისე	ისე	ADV	_	AdvType=Mod	10	advmod	_	Translit=ise
+10	გალობდა	გალობა	VERB	_	Aspect=Ipfv|Voice=AutoAct|Transitivity=Intr|VerbType=RelStat|VerbForm=Fin|TAMSeries=Imperf|Subj=3Sing	7	conj	_	Translit=galobda
+11	,	,	PUNCT	_	_	7	punct	_	_
+12	მამიდამ	მამიდა	NOUN	_	Animacy=Anim|Number=Sing|Case=Erg	16	nsubj	_	Translit=mamidam
+13	საქმეს	საქმე	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	16	obj	_	Translit=sakmes
+14	თავი	თავი	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	16	obl	_	Translit=tavi
+15	დაანება	ანება	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing|Obj=3Plur|ObjRole=Loc	7	conj	_	Translit=daaneba
+16	,	,	PUNCT	_	_	16	punct	_	_
+17	სამფეხა	სამფეხა	ADJ	_	Degree=Pos|Number=Sing|Case=Nom	18	amod	_	Translit=sampexa
+18	სკამი	სკამი	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	21	obj	_	Translit=sk'ami
+19-20	ეზოში	_	_	_	_	_	_	_	_
+19	ეზოს	ეზო	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	21	obl	_	Translit=ezos
+20	ში	ში	ADP	_	_	19	case	_	Translit=ši
+21	გამოიტანა	გამოაქვს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Inv|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	7	conj	_	Translit=gamoit’ana
+22	,	,	PUNCT	_	_	21	punct	_	_
+23	დაჯდა	ზის	VERB	_	Aspect=Pfv|Voice=AutoAct|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	7	conj	_	Translit=daǯda 
+24	და	და	CCONJ	_	_	26	cc	_	Translit=da
+25	სმენად	სმენა	NOUN	_	Animacy=Inan|Number=Sing|Case=Adv	26	obl	_	Translit=smenad
+26	იქცა	იქცევს	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	23	conj	_	Translit= ikсa
+27	,	,	PUNCT	_	_	26	punct	_	_
+28	მე	მე	PRON	_	PronType=Pers|Person=1|Number=Sing|Case=Nom	31	nsubj	_	Translit=me
+29-30	კოინდარზე	_	_	_	_	_	_	_	_
+29	კოინდარს	კოინდარი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	31	obl	_	Translit= k’oindars
+30	ზე	ზე	ADP	_	_	29	case	_	Translit=ze
+31	დავწექი	დაწექი	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=1Sing	23	conj	_	Translit=davс’eki
+32	და	და	CCONJ	_	_	34	cc	_	Translit=da
+33	თვალები	თვალი	NOUN	_	Animacy=Inan|Number=Plur|Case=Nom	34	obj	_	Translit=tvalebi
+34	დავხუჭე	ხუჭავს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=1Sing	31	conj	_	Translit=davxuč’e
+35	.	.	PUNCT	_	_	7	punct	_	_
+#sent_id: 4									
+#text: ჩხართვი გალობდა სულმოუთქმელად, გულში ხმას ვაყოლებდი და ვცდილობდი, არ მესუნთქა, ვიდრე ჩხართვი სულს არ მოითქვამდა, მაგრამ სუნთქვა არ მყოფნიდა.									
+#transliteration: čxartvi galobda sulmoutkmelad, gulši xmas vaq’olebdi da vсdilobdi, ar mesuntka, vidre čxartvi suls ar moitkvamda, magram suntkva ar mq’opnida.									
+#ru_text: Я прилег тут же на траве и закрыл глаза. Кедровка пела не переводя дыхания. Я стал было молча, про себя повторять нехитрый мотив птичьего напева, но мне не хватило воздуха.									
+1	ჩხართვი	ჩხართვი	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	2	nsubj	_	Translit=čxartvi
+2	გალობდა	გალობს	VERB	_	Aspect=Ipfv|Voice=AutoAct|Transitivity=Intr|VerbType=RelStat|VerbForm=Fin|TAMSeries=Imperf|Subj=3Sing	0	root	_	Translit=galobda
+3	სულმოუთქმელად	სულმოუთქმელად	ADV	_	AdvType=Mod	2	advmod	_	Translit=sulmoutkmelad
+4	,	,	PUNCT	_	_	2	punct	_	_
+5-6	გულში	_	_	_	_	_	_	_	_
+5	გულს	გული	NOUN	_	Animacy=Anim|Number=Sing|Case=Dat	8	obl	_	Translit=guls
+6	ში	ში	ADP	_	_	5	case	_	Translit=ši
+7	ხმას	ხმა	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	8	obj	_	Translit=xmas
+8	ვაყოლებდი	აყოლებს	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Imperf|Subj=1Sing|Obj=3Sing	2	conj	_	Translit=vaq’olebdi
+9	და	და	CCONJ	_	_	8	сс	_	Translit=da
+10	ვცდილობდი	ცდილობს	VERB	_	Aspect=Ipfv|Voice=AutoAct|Transitivity=Intr|VerbType=RelStat|VerbForm=Fin|TAMSeries=Imperf|Subj=1Sing	8	conj	_	Translit=vсdilobdi
+11	,	,	PUNCT	_	_	8	punct	_	_
+12	არ	არ	PART	_	Polarity=Neg	13	advmod	_	Translit=ar
+13	მესუნთქა	სუნთქავს	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Intr|VerbType=RelStat|VerbForm=Fin|TAMSeries=Imperf|Subj=1Sing	8	conj	_	Translit=mesuntka
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	ვიდრე	ვიდრე	SCONJ	_	_	19	mark	_	Translit=vidre
+16	ჩხართვი	ჩხართვი	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	19	nsubj	_	Translit=čxartvi
+17	სულს	სული	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	19	obj	_	Translit=suls
+18	არ	არ	PART	_	Polarity=Neg	19	advmod	_	Translit=ar
+19	მოითქვამდა	ითქვამს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=FutCond|Subj=3Sing	8	conj	_	Translit=moitkvamda
+20	,	,	PUNCT	_	_	19	punct	_	_
+21	მაგრამ	მაგრამ	CCONJ	_	_	24	cc	_	Translit=magram
+22	სუნთქვა	სუნთქვა	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	24	nsubj	_	Translit=suntkva
+23	არ	არ	PART	_	Polarity=Neg	24	advmod	_	Translit=ar
+24	მყოფნიდა	ყოფნის	VERB	_	Aspect=Ipfv|Voice=IndAct|Transitivity=IndTrans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=1Sing	19	conj	_	Translit=mq’opnida
+25	.	.	PUNCT	_	_	24	punct	_	_
+#sent_id: 5									
+#text: ჩხართვი გაბმულად სტვენდა. 									
+#transliteration: čxartvi gabmulad st’venda.									
+#ru_text: А кедровка продолжала свистеть.									
+1	ჩხართვი	ჩხართვი	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	3	nsubj	_	Translit=čxartvi
+2	გაბმულად	გაბმულად	ADV	_	AdvType=Mod	3	advmod	_	Translit=gabmulad
+3	სტვენდა	სტვენს	VERB	_	Aspect=Ipfv|Voice=IndAct|Transitivity=Trans|VerbType=RelDin|VerbForm=Fin|TAMSeries=Imperf|Subj=3Sing	0	root	_	Translit=st’venda
+4	.	.	PUNCT	_	_	3	punct	_	_
+#sent_id: 6									
+#text: იშვიათად თუ შეჩერდებოდა, ჩამავალი მზისკენ გაიხედავდა და ისევ განაგრძობდა სტვენას.									
+#transliteration: išviatad tu šečerdeboda, čamavali mzisk’en gaixedavda da isev ganagrʒobda st’venas.									
+#ru_text: Временами она поглядывала искоса на катившееся к закату солнце.									
+1	იშვიათად	იშვიათად	ADV	_	AdvType=Temp	3	advmod	_	Translit=išviatad
+2	თუ	თუ	SCONJ	_	_	3	mark	_	Translit=tu
+3	შეჩერდებოდა	ჩერდებს	VERB	_	Aspect=Pfv|Voice=AutoAct|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=FutCond|Subj=3Sing	0	root	_	Translit=šečerdeboda
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	ჩამავალი	ევალება	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Fut	3	conj	_	Translit=čamavali
+6-7	მზისკენ	_	_	_	_	_	_	_	_
+6	მზის	მზე	NOUN	_	Animacy=Inan|Number=Sing|Case=Gen	8	obl	_	Translit=mzis
+7	კენ	კენ	ADP	_	_	6	case	_	Translit=k’en
+8	გაიხედავდა	იხედავს	VERB	_	Aspect=Pfv|Voice=AutoAct|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=FutCond|Subj=3Sing	3	conj	_	Translit=gaixedavda
+9	და	და	CCONJ	_	_	11	cc	_	Translit=da
+10	ისევ	ისევ	ADV	_	AdvType=Temp	11	advmod	_	Translit=isev
+11	განაგრძობდა	განაგრძობს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=FutCond|Subj=3Sing	8	conj	_	Translit=ganagrʒobda
+12	სტვენას	სტვენა	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	11	obj	_	Translit=st’venas
+13	.	.	PUNCT	_	_	8	punct	_	_
+#sent_id: 7									
+#text: სპილენძის ლანგარივით წითელი უზარმაზარი მზე ზანტად ჩადიოდა და სუფსის ჭალაში დაბნეულ სოფლებს ცეცხლს უკიდებდა.									
+#transliteration: sp’ilenʒis langarivit с’iteli uzarmazari mze zant’ad čadioda da supsis č’alaši dabneul soplebs сeсxls uk’idebda.									
+#ru_text: Огромное, красное, похожее на медное блюдо, светило медленно опускалось к горизонту, и разбросанные в долине Супсы [Супса название реки. (Здесь и дальше - примечания переводчика.)] деревни под его лучами алели, словно охваченные пламенем.									
+1	სპილენძის	სპილენძი	NOUN	_	Animacy=Inan|Number=Sing|Case=Gen	2	nmod	_	Translit=sp’ilenʒis
+2-3	ლანგარივით	_	_	_	_	_	_	_	_
+2	ლანგარი	ლანგარი	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	6	nmod	_	Translit=langari
+3	ვით	ვით	ADP	_	_	3	case	_	Translit=vit
+4	წითელი	წითელი	ADJ	_	Degree=Pos|Number=Sing|Case=Nom	6	amod	_	Translit=с’iteli
+5	უზარმაზარი	უზარმაზარი	ADJ	_	Degree=Pos|Number=Sing|Case=Nom	6	amod	_	Translit=uzarmazari
+6	მზე	მზე	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	8	nsubj	_	Translit=mze
+7	ზანტად	ზანტად	ADV	_	AdvType=Mod	8	advmod	_	Translit=zant’ad
+8	ჩადიოდა	ჩადის	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Imperf|Subj=3Sing	0	root	_	Translit=čadioda
+9	და	და	CCONJ	_	_	16	cc	_	Translit=da
+10	სუფსის	სუფსა	PROPN	_	Animacy=Inan|Number=Sing|Case=Gen	11	nmod	_	Translit=supsis 
+11-12	ჭალაში	_	_	_	_	_	_	_	_
+11	ჭალას	ჭალა	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	16	obl	_	Translit=’alas
+12	ში	ში	ADP	_	_	11	case	_	Translit=ši
+13	დაბნეულ	დაბნეული	ADJ	_	Degree=Pos|Number=Plur|Case=Dat	14	amod	_	Translit=dabneul
+14	სოფლებს	სოფელი	NOUN	_	Animacy=Inan|Number=Plur|Case=Dat	16	obj	_	Translit=soplebs
+15	ცეცხლს	ცეცხლი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	16	obl	_	Translit=сeсxls
+16	უკიდებდა	უკიდებს	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Imperf|Subj=3Sing|Obj=3Sing|ObjRole=Ben	8	conj	_	Translit=uk’idebda
+17	.	.	PUNCT	_	_	8	punct	_	_
+#sent_id: 8									
+#text: — ქეთო! — მოადგა ვიღაცა ჭიშკარს.									
+#transliteration: — keto! — moadga viɣaсa č’išk’ars.									
+#ru_text: - Кето! - раздался крик у ворот.									
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	ქეთო	ქეთო	PROPN	_	Animacy=Anim|Number=Sing|Case=Voc	0	root	_	Translit=keto
+3	!	!	PUNCT	_	_	2	punct	_	_
+4	—	—	PUNCT	_	_	2	punct	_	_
+5	მოადგა	ადგამს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing|ObjRole=Adr	2	parataxis	_	Translit=moadga
+6	ვიღაცა	ვიღაცა	PRON	_	PronType=Indf|Number=Sing|Case=Nom	5	nsubj	_	Translit=viɣaсa
+7	ჭიშკარს	ჭიშკარი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	5	obl	_	Translit=č’išk’ars
+8	.	.	PUNCT	_	_	2	punct	_	_
+#sent_id: 9									
+#text: ჩხართვმა სტვენა შეწყვიტა.									
+#transliteration: čxartvma st’vena šeс’q’vit’a.									
+#ru_text: Кедровка умолкла.									
+1	ჩხართვმა	ჩხართვი	NOUN	_	Animacy=Anim|Number=Sing|Case=Erg	3	nsubj	_	Translit=čxartvma
+2	სტვენა	სტვენა	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	3	obj	_	Translit=st’vena
+3	შეწყვიტა	წყვიტს	VERB	_	Aspect=Pfv|Voice=IndAct|Transitivity=Trans|VerbType=RelDin|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing|Obj=3Sing	0	root	_	Translit=šeс’q’vit’a
+4	.	.	PUNCT	_	_	3	punct	_	_
+#sent_id: 10									
+#text: — სოსო, სოსოია, ბიჭო! — ახლა მე დამიძახა სტუმარმა.									
+#transliteration: — soso, sosoia, bič’o! — axla me damiʒaxa st’umarma.									
+#ru_text: - Coco!.. Сосойя! - повторил тот же голос.									
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	სოსო	სოსო	PROPN	_	Animacy=Anim|Number=Sing|Case=Voc	0	root	_	Translit=soso
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	სოსოია	სოსოია	PROPN	_	Animacy=Anim|Number=Sing|Case=Voc	2	parataxis	_	Translit=sosoia
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	ბიჭო	ბიჭი	NOUN	_	Animacy=Anim|Number=Sing|Case=Voc	2	conj	_	Translit=bič’o
+7	!	!	PUNCT	_	_	6	punct	_	_
+8	—	—	PUNCT	_	_	11	punct	_	_
+9	ახლა	ახლა	ADV	_	AdvType=Temp	11	advmod	_	Translit=axla
+10	მე	მე	PRON	_	PronType=Pers|Person=1|Number=Sing|Case=Dat	11	obj	_	Translit=me
+11	დამიძახა	იძახებს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing|Obj=1Sing	6	parataxis	_	Translit=damiʒaxa
+12	სტუმარმა	სტუმარმა	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	11	nsubj	_	Translit=st’umarma
+13	.	.	PUNCT	_	_	2	punct	_	_
+#sent_id: 11									
+#text: — მობრძანდი! — გავძახე უკმაყოფილომ და წამოვჯექი.									
+#transliteration: — mobrʒandi! — gavʒaxe uk’maq’opilom da с’amovǯeki.									
+#ru_text: - Кто там? Входите! - ответил я недовольно и встал.									
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	მობრძანდი	მობრძანდებს	VERB	_	Aspect=Pfv|Voice=AutoAct|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Imperf|Subj=2Sing	0	root	_	Translit=mobrʒandi
+3	!	!	PUNCT	_	_	2	punct	_	_
+4	—	—	PUNCT	_	_	5	punct	_	_
+5	გავძახე	ძახავს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=1Sing	2	parataxis	_	Translit=gavʒaxe
+6	უკმაყოფილომ	უკმაყოფილო	ADJ	_	Degree=Pos|Number=Sing|Case=Erg	5	advmod	_	Translit=uk’maq’opilom
+7	და	და	CCONJ	_	_	8	cc	_	Translit=da
+8	წამოვჯექი	ზის	VERB	_	Aspect=Pfv|Voice=AutoAct|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=1Sing	5	conj	_	Translit=с’amovǯeki
+9	.	.	PUNCT	_	_	2	punct	_	_
+#sent_id: 12									
+#text: ეზოში ჩვენი ბრიგადირი დათიკო ჩამოვიდა.									
+#transliteration: ezoši čveni brigadiri datik’o čamovida.									
+#ru_text: Во двор вошел бригадир нашего колхоза Датико.									
+1-2	ეზოში	_	_	_	_	_	_	_	_
+1	ეზოს	ეზო	NOUN	_	Animacy=Anim|Number=Sing|Case=Dat	6	obl	_	Translit=ezos
+2	ში	ში	ADP	_	_	1	case	_	Translit=ši
+3	ჩვენი	ჩვენი	PRON	_	PronType=Poss|Person=1|Number=Plur|Case=Nom	4	det	_	Translit=čveni
+4	ბრიგადირი	ბრიგადირი	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	6	nsubj	_	Translit=brigadiri 
+5	დათიკო	დათიკო	PROPN	_	Animacy=Anim|Number=Sing|Case=Nom	4	appos	_	Translit=datik’o 
+6	ჩამოვიდა	ჩამოვა	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	0	root	_	Translit=čamovida
+7	.	.	PUNCT	_	_	6	punct	_	_
+#sent_id: 13									
+#text: — გამარჯობათ თქვენი! — მოგვესალმა იგი.									
+#transliteration: — gamarǯobat tkveni! — mogvesalma igi.									
+#ru_text: - Здравствуйте! - приветствовал он нас.									
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	გამარჯობათ	გამარჯობა	NOUN	_	Animacy=Inan|Number=Plur|Case=Nom	0	root	_	Translit=gamarǯobat
+3	თქვენი	თქვენი	PRON	_	PronType=Pers|Person=2|Number=Plur|Case=Dat	2	obj	_	Translit=tkveni
+4	!	!	PUNCT	_	_	2	punct	_	_
+5	—	—	PUNCT	_	_	6	punct	_	_
+6	მოგვესალმა	ესალმებს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing|Obj=1Plur	2	parataxis	_	Translit=mogvesalma
+7	იგი	იგი	PRON	_	PronType=Pers|Person=3|Number=Sing|Case=Nom	6	nsubj	_	Translit=igi
+8	.	.	PUNCT	_	_	2	punct	_	_
+#sent_id: 14									
+#text: — გაგიმარჯოს! — უპასუხა მამიდამ, მერე ადგა და სტუმარს სამზარეულოში შეუძღვა.									
+#transliteration: — gagimarǯos! — up’asuxa mamidam, mere adga da st’umars samzareuloši šeuʒɣva.									
+#ru_text: - Здравствуй! - ответила тетя. - Заходи! Тетя направилась к кухне [Характерный для Западной Грузии жилой дом ода - обычно строится двухэтажным. В нижнем этаже расположена кухня, в верхнем - жилые комнаты], Датико последовал за ней,									
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	გაგიმარჯოს	გაგიმარჯოს	INTJ	_	_	0	root	_	Translit=gagimarǯos
+3	!	!	PUNCT	_	_	2	punct	_	_
+4	—	—	PUNCT	_	_	5	punct	_	_
+5	უპასუხა	პასუხობს	VERB	_	Aspect=Ipfv|Voice=AutoAct|Transitivity=Intr|VerbType=RelStat|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	2	parataxis	_	Translit=up’asuxa
+6	მამიდამ	მამიდა	NOUN	_	Animacy=Anim|Number=Sing|Case=Erg	5	nsubj	_	Translit=mamidam
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	მერე	მერე	ADV	_	AdvType=Temp	14	advmod	_	Translit=mere
+9	ადგა	ადგამს	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing|Obj=3Sing|ObjRole=Adr	5	conj	_	Translit=adga
+10	და	და	CCONJ	_	_	14	cc	_	Translit=da
+11	სტუმარს	სტუმარი	NOUN	_	Animacy=Anim|Number=Sing|Case=Dat	14	obj	_	Translit=st’umars
+12-13	სამზარეულოში	_	_	_	_	_	_	_	_
+12	სამზარეულოს	სამზარეულოი	NOUN		Animacy=Inan|Number=Sing|Case=Dat	14	obl	_	Translit=samzareulos
+13	ში	ში	ADP	_	_	12	case	_	Translit=ši
+14	შეუძღვა	უძღვებს	VERB	_	Aspect=Pfv|Voice=AutoAct|Transitivity=IndTrans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	5	conj	_	Translit=šeuʒɣva
+15	.	.	PUNCT	_		2	punct	_	_
+#sent_id: 15									
+#text: კოინდარზე წამოვწექი და დაველოდე, როდის დაიწყებდა ჩხართვი გალობას ისევ, მაგრამ აღარ გალობდა.									
+#transliteration: k’oindarze с’amovс’eki da davelode, rodis daiс’q’ebda čxartvi galobas isev, magram aɣar galobda.									
+#ru_text: а я снова прилег и взглянул на дерево, где только что сидела кедровка. Но ее и след простыл.									
+1-2	კოინდარზე	_	_	_	_	_	_	_	
+1	კოინდარს	კოინდარი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	3	obl		Translit=k’oindars
+2	ზე	ზე	ADP	_	_	1	case		Translit=ze
+3	წამოვწექი	წევს	VERB	_	Aspect=Pfv|Voice=AutoAct|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=AorImp|Subj=1Sing	0	root	_	Translit=с’amovс’eki
+4	და	და	CCONJ	_	_	5	cc	_	Translit=da
+5	დაველოდე	ელოდებს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=1Sing|Obj=3Sing|ObjRole=Adr	3	conj	_	Translit=davelode
+6	,	,	PUNCT	_	_	3	punct	_	_
+7	როდის	როდის	ADV	_	AdvType=QA	8	mark	_	Translit=rodis
+8	დაიწყებდა	იწყებს	VERB	_	Aspect=Pfv|Voice=AutoAct|Transitivity=Trans|VerbType=RelStat|VerbForm=Fin|TAMSeries=FutCond|Subj=3Sing	3	conj	_	Translit=daiс’q’ebda
+9	ჩხართვი	ჩხართვი	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	8	nsubj	_	Translit=čxartvi
+10	გალობას	გალობა	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	8	obj	_	Translit=galobas
+11	ისევ	ისევ	ADV	_	AdvType=Temp	8	advmod	_	Translit=isev
+12	,	,	PUNCT	_	_	8	punct	_	_
+13	მაგრამ	_	CCONJ	_	_	15	cc	_	Translit=magram
+14	აღარ	აღარ	PART	_	Polarity=Neg	15	advmod	_	Translit=aɣar
+15	გალობდა	გალობს	VERB	_	Aspect=Ipfv|Voice=AutoAct|Transitivity=Intr|VerbType=RelStat|VerbForm=Fin|TAMSeries=Imperf|Subj=3Sing	8	conj	_	Translit=galobda
+16	.	.	PUNCT	_	_	3	punct	_	_
+#sent_id: 16									
+#text: ავდექი და სამზარეულოში შევედი.									
+#transliteration: avdeki da samzareuloši ševedi.									
+#ru_text: Я встал и пошел на кухню.									
+1	ავდექი	დგებს	VERB	_	Aspect=Pfv|Voice=AutoAct|Transitivity=IndTrans|VerbType=Din|VerbForm=Fin|TAMSeries=Imperf|Subj=1Sing	0	root	_	Translit=avdeki
+2	და	და	CCONJ	_	_	5	cc	_	Translit=da
+3-4	სამზარეულოში	_	_	_	_	_	_	_	_
+3	სამზარეულოს	სამზარეულოი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	5	obl	_	Translit=samzareulos
+4	ში	ში	ADP	_	_	3	case	_	Translit=ši
+5	შევედი	შევედის	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=1Sing	1	conj	_	Translit=ševedi
+6	.	.	PUNCT	_	_	1	punct	_	_
+#sent_id: 17									
+#text: ბრიგადირი რაღაცას ეუბნებოდა მამიდას, მე რომ შევედი, გაჩუმდა.									
+#transliteration: brigadiri raɣaсas eubneboda mamidas, me rom ševedi, gačumda.									
+#ru_text: Бригадир, горячо о чем-то толковавший с тетей, при моем появлении умолк.									
+1	ბრიგადირი	ბრიგადირი	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	3	nsubj	_	Translit=brigadiri
+2	რაღაცას	რაღაც	PRON	_	PronType=Indf|Number=Sing|Case=Gen	3	obl	_	Translit=raɣaсas
+3	ეუბნებოდა	ეუბნებს	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Imperf|Subj=3Sing|Obj=3Sing|ObjRole=Adr	0	root	_	Translit=eubneboda
+4	მამიდას	მამიდა	NOUN	_	Animacy=Anim|Number=Sing|Case=Dat	3	obj	_	Translit=mamidas
+5	,	,	PUNCT	_	_	3	punct	_	_
+6	მე	მე	PRON	_	PronType=Pers|Person=1|Number=Sing|Case=Nom	8	nsubj	_	Translit=me
+7	რომ	რომ	SCONJ	_	_	8	mark	_	Translit=rom
+8	შევედი	შევედის	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=1Sing	3	conj	_	Translit=ševedi
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	გაჩუმდა	ჩუმდება	VERB	_	Aspect=Pfv|Voice=AutoAct|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	3	conj	_	Translit=gačumda
+11	.	.	PUNCT	_	_	3	punct	_	_
+#sent_id: 18									
+#text: მამიდა უხმოდ იჯდა, მუხლებზე ხელი შემოესალტა და ბუხარში ჩაფერფლილ ნაკვერჩხლებს ჩასცქეროდა.									
+#transliteration: mamida uxmod iǯda, muxlebze xeli šemoesalt’a da buxarši čaperplil nak’verčxlebs časсkeroda.									
+#ru_text: А тетя так и осталась сидеть - обхватив руками колени и уставившись в затухающий в камине огонь.									
+1	მამიდა	მამიდა	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	3	nsubj	_	Translit=mamida
+2	უხმოდ	უხმოდ	ADV	_	AdvType=Mod	3	advmod	_	Translit=uxmod
+3	იჯდა	ზის	VERB	_	Aspect=Ipfv|Voice=AutoAct|Transitivity=Intr|VerbType=Stat|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	0	root	_	Translit=iǯda
+4	,	,	PUNCT	_	_	3	punct	_	_
+5-6	მუხლებზე	_	_	_	_	_	_	_	_
+5	მუხლებს	მუხლი	NOUN	_	Animacy=Inan|Number=Plur|Case=Dat	8	obl		Translit=muxlebs
+6	ზე	ზე	ADP	_	_	5	case		Translit=ze
+7	ხელი	ხელი	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	8	obj	_	Translit=xeli
+8	შემოესალტა	ესალტება	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing|Obj=3Sing|ObjRole=Adr	3	conj	_	Translit=šemoesalt’a
+9	და	და	CCONJ	_	_	14	cc	_	Translit=da
+10-11	ბუხარში	_	_	_	_	_	_	_	_
+10	ბუხარს	ბუხარი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	14	obl		Translit=buxars
+11	ში	ში	ADP	_	_	10	case		Translit=ši
+12	ჩაფერფლილ	ჩაფერფლილი	ADJ	_	Degree=Pos|Number=Sing|Case=Dat	13	amod	_	Translit=čaperplil
+13	ნაკვერჩხლებს	ნაკვერჩხლი	NOUN	_	Animacy=Inan|Number=Plur|Case=Dat	12	obj	_	Translit=nak’verčxlebs
+14	ჩასცქეროდა	სცქეროს	VERB	_	Aspect=Ipfv|Voice=AutoAct|Transitivity=Intr|VerbType=RelStat|VerbForm=Fin|TAMSeries=Imperf|Subj=3Sing	3	conj	_	Translit=časсkeroda
+15	.	.	PUNCT	_	_	3	punct	_	_
+#sent_id: 19									
+#text: ბრიგადირმა ქისა ამოიღო ჯიბიდან, თუთუნი გაახვია, ბუხრისკენ დაიხარა, ცეცხლმოკიდებული ფიჩხი აიღო, თამბაქოს მოუკიდა და გააბოლა.									
+#transliteration: brigadirma kisa amoiɣo ǯibidan, tutuni gaaxvia, buxrisk’en daixara, сeсxlmok’idebuli pičxi aiɣo, tambakos mouk’ida da gaabola.									
+#ru_text: Бригадир достал из кармана кисет, свернул цигарку, прикурил от тлеющей головешки.									
+1	ბრიგადირმა	ბრიგადირი	NOUN	_	Animacy=Anim|Number=Sing|Case=Erg	3	nsubj	_	Translit=brigadirma
+2	ქისა	ქისა	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	3	obj	_	Translit=kisa
+3	ამოიღო	იღებს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	0	root	_	Translit=amoiɣo
+4-5	ჯიბიდან	_	_	_	_	_	_	_	_
+4	ჯიბის	ჯიბი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	3	obl	_	Translit=ǯibis
+5	დან	დან	ADP	_	_	4	case	_	Translit=dan
+6	,	,	PUNCT	_	_	3	punct	_	_
+7	თუთუნი	თუთუნი	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	8	obj	_	Translit=tutuni
+8	გაახვია	ახვევს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	3	conj	_	Translit=gaaxvia
+9	,	,	PUNCT	_	_	8	punct	_	_
+10-11	ბუხრისკენ	_	_	_	_	_	_	_	_
+10	ბუხრის	ბუხრი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	12	obl	_	Translit=buxris
+11	კენ	კენ	ADP	_	_	10	case	_	Translit=k’en
+12	დაიხარა	იხრება	VERB	_	Aspect=Pfv|Voice=AutoAct|Transitivity=Intr|VerbType=RelStat|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	3	conj	_	Translit=daixara
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	ცეცხლმოკიდებული	ცეცხლმოკიდებული	ADJ	_	Degree=Pos|Number=Sing|Case=Nom	15	amod	_	Translit=сeсxlmok’idebuli
+15	ფიჩხი	ფიჩხი	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	16	obj	_	Translit=pičxi
+16	აიღო	იღებს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	3	conj	_	Translit=aiɣo
+17	,	,	PUNCT	_	_	16	punct	_	_
+18	თამბაქოს	თამბაქო	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	19	obj	_	Translit=tambakos
+19	მოუკიდა	უკიდებს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing|Obj=3Sing	3	conj	_	Translit=mouk’ida
+20	და	და	CCONJ	_	_	21	cc	_	Translit=da
+21	გააბოლა	აბოლავს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	19	conj	_	Translit=gaabola
+22	.	.	PUNCT	_	_	3	punct	_	_
+#sent_id: 20									
+#text: ოთახში მყრალი თუთუნის სუნი დატრიალდა.									
+#transliteration: otaxši mq’rali tutunis suni dat’rialda.									
+#ru_text: В кухне запахло горьким, вонючим табаком.									
+1-2	ოთახში	_	_	_	_	_	_	_	_
+1	ოთახის	ოთახი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	6	obl	_	Translit=
+2	ში	ში	ADP	_	_	1	case	_	Translit=
+3	მყრალი	მყრალი	ADJ	_	Degree=Pos|Number=Sing|Case=Gen	4	amod	_	Translit=
+4	თუთუნის	თუთუნი	NOUN	_	Animacy=Inan|Number=Sing|Case=Gen	5	nmod	_	Translit=
+5	სუნი	სუნი	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	6	nsubj	_	Translit=
+6	დატრიალდა	ტრიალდებს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	0	root	_	Translit=
+7	.	.	PUNCT	_	_	6	punct	_	_
+#sent_id: 21									
+#text: — სოსოია, წყალი დამალევიე, შენს გაზრდას. — მთხოვა მან.									
+#transliteration: — sosoia, с’q’ali damalevie, šens gazrdas. — mtxova man.									
+#ru_text: - Сосойя, будь другом, дай напиться! - попросил меня бригадир.									
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	სოსოია	სოსოია	PROPN	_	Animacy=Anim|Number=Sing|Case=Voc	0	root	_	Translit=sosoia
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	წყალი	წყალი	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	5	obj	_	Translit=с’q’ali
+5	დამალევიე	დამალავს	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	2	parataxis	_	Translit=damalevie
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	შენს	შენი	PRON	_	PronType=Pers|Person=2|Number=Sing|Case=Dat	8	obj	_	Translit=šens
+8	გაზრდას	გაზრდა	NOUN	_	Animacy=Inan|Number=Sing|Case=Gen	2	parataxis	_	Translit=gazrdas
+9	.	.	PUNCT	_	_	8	punct	_	_
+10	—	—	PUNCT	_	_	8	punct	_	_
+11	მთხოვა	თხოვს	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing|Obj=1Sing|ObjRole=Ben	2	parataxis	_	Translit=mtxova
+12	მან	იგი	PRON	_	PronType=Pers|Person=3|Number=Sing|Case=Erg	11	nsubj	_	Translit=man
+13	.	.	PUNCT	_	_	2	punct	_	_
+#sent_id: 22									
+#text: დოქთან მივედი.									
+#transliteration: doktan mivedi.									
+#ru_text: Я взял кувшинчик с водой.									
+1-2	დოქთან	_	_	_	_	_	_	_	_
+1	დოქს	დოქი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	3	obl	_	Translit=doks
+2	თან	თან	ADP	_	_	1	case	_	Translit=tan
+3	მივედი	მიდის	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=1Sing	0	root	_	Translit=mivedi
+4	.	.	PUNCT	_	_	3	punct	_	_
+#sent_id: 23									
+#text: — მაგი არა, ცივი მოიტანე.									
+#transliteration: — magi ara, сivi moit’ane.									
+#ru_text: - Да нет, принеси-ка свеженькой!									
+1	—	—	PUNCT	_	_	6	punct	_	_
+2	მაგი	ეგე	PRON	_	PronType=Dem|Person=3|Number=Sing|Case=Gen	6	det	_	Translit=magi
+3	არა	არა	PART	_	Polarity=Neg	2	advmod	_	Translit=ara
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	ცივი	ცივი	ADJ	_	Degree=Pos|Number=Sing|Case=Gen	6	obl	_	Translit=civi
+6	მოიტანე	იტანს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=2Sing	0	root	_	Translit=moit’ane
+7	.	.	PUNCT	_	_	6	punct	_	_
+#sent_id: 24									
+#text: დოქი ავიღე და ეზოში გავედი, როდესაც შემოვბრუნდი, ბრიგადირი რაღაცას ამბობდა, ჩემს დანახვაზე ისევ დადუმდა.									
+#transliteration: doki aviɣe da ezoši gavedi, rodesaс šemovbrundi, brigadiri raɣaсas ambobda, čems danaxvaze isev dadumda.									
+#ru_text: Я вышел во двор. Когда я вернулся, Датико опять о чем-то говорил тете и опять вдруг замолчал.									
+1	დოქი	დოქი	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	2	obj	_	Translit=doki
+2	ავიღე	იღებს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=1Sing	0	root	_	Translit=aviɣe
+3	და	და	CCONJ	_	_	6	cc	_	Translit=da
+4-5	ეზოში	_	_	_	_	_	_	_	_
+4	ეზოს	ეზო	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	6	obl		Translit=ezos
+5	ში	ში	ADP	_	_	4	case		Translit=ši
+6	გავედი	გადის	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=1Sing	2	conj	_	Translit=gavedi
+7	,	,	PUNCT	_	_	2	punct	_	_
+8	როდესაც	როდესაც	ADV	_	AdvType=Rel	9	mark	_	Translit=rodesaс
+9	შემოვბრუნდი	ბრუნდებს	VERB	_	Aspect=Pfv|Voice=AutoAct|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=1Sing	2	conj	_	Translit=šemovbrundi
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	ბრიგადირი	ბრიგადირი	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	13	nsubj	_	Translit=brigadiri
+12	რაღაცას	რაღაც	PRON	_	PronType=Indf|Number=Sing|Case=Dat	13	obj	_	Translit=raɣaсas
+13	ამბობდა	ამბობს	VERB	_	Aspect=Ipfv|Voice=AutoAct|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Imperf|Subj=3Sing	9	conj	_	Translit=ambobda
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	ჩემს	ჩემი	PRON	_	PronType=Poss|Person=1|Number=Sing|Case=Dat	16	amod	_	Translit=čems
+16-17	დანახვაზე	_	_	_	_	_	_	_	_
+16	დანახვას	დანახვა	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	19	obl		Translit=danaxvas
+17	ზე	ზე	ADP	_	_	16	case		Translit=ze
+18	ისევ	ისევ	ADV	_	AdvType=Temp	19	advmod	_	Translit=isev
+19	დადუმდა	დუმს	VERB	_	Aspect=Ipfv|Voice=AutoAct|Transitivity=Intr|VerbType=RelStat|VerbForm=Fin|TAMSeries=Imperf|Subj=3Sing	13	conj	_	Translit=dadumda
+20	.	.	PUNCT	_	_	2	punct	_	_
+#sent_id: 25									
+#text: წყალი მივაწოდე.									
+#transliteration: с’q’ali mivaс’ode.									
+#ru_text: Я налил воду в стакан, подал бригадиру.									
+1	წყალი	წყალი	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	2	obj	_	Translit=с’q’ali
+2	მივაწოდე	აწოდებს	VERB	_	Aspect=Ipfv|Voice=AutoAct|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=1Sing|Obj=3	0	root	_	Translit=mivaс’ode
+3	.	.	PUNCT	_	_	2	punct	_	_
+#sent_id: 26									
+#text: უგემურად მოსვა.									
+#transliteration: ugemurad mosva.									
+#ru_text: Он нехотя выпил.									
+1	უგემურად	უგემურად	ADV	_	AdvType=Mod	2	advmod	_	Translit=ugemurad
+2	მოსვა	სვამს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	0	root	_	Translit=mosva
+3	.	.	PUNCT	_	_	2	punct	_	_
+#sent_id: 27									
+#text: — კიდევ დაგისხა?									
+#transliteration: — k’idev dagisxa?									
+#ru_text: - Налить еще?									
+1	—	—	PUNCT	_	_	3	punct	_	_
+2	კიდევ	კიდევ	ADV	_	AdvType=Mod	3	advmod	_	Translit=k’idev
+3	დაგისხა	ისხამს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=1Sing|Obj=2Sing|ObjRole=Ben	0	root	_	Translit=dagisxa
+4	?	?	PUNCT	_	_	3	punct	_	_
+#sent_id: 28									
+#text: — მადლობელი ვარ, მეტი არ მინდა.									
+#transliteration: — madlobeli var, met’i ar minda.									
+#ru_text: - Нет, спасибо.									
+1	—	—	PUNCT	_	_	3	punct	_	_
+2	მადლობელი	მადლობელი	ADJ	_	Degree=Pos|Number=Sing|Case=Nom	3	amod	_	Translit=madlobeli
+3	ვარ	არის	VERB	_	Transitivity=Intr|VerbForm=Aux|TAMSeries=Pres|Subj=1Sing	0	root	_	Translit=var
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	მეტი	მეტი	ADJ	_	Degree=Pos|Number=Sing|Case=Nom	7	amod	_	Translit=met’i
+6	არ	არ	PART	_	Polarity=Neg	7	advmod	_	Translit=ar
+7	მინდა	უნდა	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Pres|Subj=1Sing	3	conj	_	Translit=minda
+8	.	.	PUNCT	_	_	3	punct	_	_
+#sent_id: 29									
+#text: — დაგელია კიდევ ერთი ჭიქა, შე კაცო! — შევეპატიჟე მე.									
+#transliteration: — dagelia k’idev erti č’ika, še k’aсo! — ševep’at’iže me.									
+#ru_text: - Чего там! Налью еще...									
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	დაგელია	ულევს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Res2|Subj=2Sing	0	root	_	Translit=dagelia 
+3	კიდევ	კიდევ	ADV	_	AdvType=Mod	2	advmod	_	Translit=k’idev
+4	ერთი	ერთი	NUM	_	NumType=Word|NumForm=Card|Number=Sing	5	nummod:gov	_	Translit=erti
+5	ჭიქა	ჭიქა	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	2	obj	_	Translit=č’ika
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	შე	შე	PRON	_	PronType=Pers|Person=2|Number=Sing|Case=Voc	2	parataxis	_	Translit=še 
+8	კაცო	კაცი	NOUN	_	Animacy=Anim|Number=Sing|Case=Voc	2	parataxis	_	Translit=k’aсo
+9	!	!	PUNCT	_	_	8	punct	_	_
+10	—	—	PUNCT	_	_	11	punct	_	_
+11	შევეპატიჟე	ეპატიჟებს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=1Sing|Obj=3Sing|ObjRole=Adr	2	parataxis	_	Translit=ševep’at’iže
+12	მე	მე	PRON	_	PronType=Pers|Person=1|Number=Sing|Case=Nom	11	nsubj	_	Translit=me
+13	.	.	PUNCT	_	_	2	punct	_	_
+#sent_id: 30									
+#text: მამიდას გაეღიმა.									
+#transliteration: mamidas gaeɣima.									
+#ru_text: Тетя улыбнулась.									
+1	მამიდას	მამიდა	NOUN	_	Animacy=Anim|Number=Sing|Case=Dat	2	nsubj	_	Translit=mamidas
+2	გაეღიმა	ეღიმებს	VERB	_	Aspect=Pfv|Voice=Inact|Transitivity=IndTrans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	0	root	_	Translit=gaeɣima
+3	.	.	PUNCT	_	_	2	punct	_	_
+#sent_id: 31									
+#text: — სოსოია, გახედე ერთი, რა აყეფებს იმ ძაღლს?... — მითხრა ბრიგადირმა დუმილის შემდეგ.									
+#transliteration: — sosoia, gaxede erti, ra aq’epebs im ʒaɣls?... — mitxra brigadirma dumilis šemdeg.									
+#ru_text: Датико помолчал, потом вдруг обратился ко мне: - Сосойя, посмотри, на кого это там собака лает?									
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	სოსოია	სოსოია	PROPN	_	Animacy=Anim|Number=Sing|Case=Voc	0	root	_	Translit=sosoia
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	გახედე	ხედავს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=2Sing	2	parataxis	_	Translit=gaxede
+5	ერთი	ერთი	NUM	_	NumForm=Word|NumType=Card|Number=Sing|Case=Gen	4	obl	_	Translit=erti
+6	,	,	PUNCT	_	_	4	punct	_	_
+7	რა	რა	PRON	_	PronType=Intr|Number=Sing	8	mark	_	Translit=ra
+8	აყეფებს	აყეფებს	VERB	_	Aspect=ipfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Pres|Subj=3Sing	4	conj	_	Translit=aq’epebs
+9	იმ	იმ	PRON	_	PronType=Dem|Person=3|Number=Sing|Case=Dat	10	det	_	Translit=im
+10	ძაღლს	ძაღლი	NOUN	_	Animacy=Anim|Number=Sing|Case=Dat	8	obj	_	Translit=ʒaɣls
+11	?	?	PUNCT	_	_	8	punct	_	_
+12	...	...	PUNCT	_	_	8	punct	_	_
+13	—	—	PUNCT	_	_	14	punct	_	_
+14	მითხრა	ეუბნებს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=AorSbj|Subj=3Sing|Obj=1Sing|ObjRole=Adr	8	conj	_	Translit=mitxra
+15	ბრიგადირმა	ბრიგადირი	NOUN	_	Animacy=Anim|Number=Sing|Case=Erg	14	nsubj	_	Translit=brigadirma
+16	დუმილის	დუმილი	NOUN	_	Animacy=Inan|Number=Sing|Case=Gen	17	nmod	_	Translit=dumilis
+17	შემდეგ	შემდეგ	ADV	_	AdvType=Temp	14	advmod	_	Translit=šemdeg
+18	.	.	PUNCT	_	_	2	punct	_	_
+#sent_id: 32									
+#text: — თუ ვინმეა, დაიძახებს, — ვთქვი მე.									
+#transliteration: — tu vinmea, daiʒaxebs, — vtkvi me.									
+#ru_text: Если гость, позовет, - я сказал.									
+1	—	—	PUNCT	_	_	3	punct	_	_
+2	თუ	თუ	CCONJ	_	_	3	cc	_	Translit=tu
+3	ვინმეა	ვინმეა	PRON	_	PronType=Indf|Number=Sing|Case=Nom	5	conj	_	Translit=vinmea
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	დაიძახებს	იძახებს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Fut|Subj=3Sing	0	root	_	Translit=daiʒaxebs
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	—	—	PUNCT	_	_	8	punct	_	_
+8	ვთქვი	თქვამს	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=1Sing	5	parataxis	_	Translit=vtkvi
+9	მე	მე	PRON	_	PronType=Pers|Person=1|Number=Sing|Case=Nom	8	nsubj	_	Translit=me
+10	.	.	PUNCT	_	_	5	punct	_	_
+#sent_id: 33									
+#text: ბრიგადირი უხერხულად შეიშმუშნა.									
+#transliteration: brigadiri uxerxulad šeišmušna.									
+#ru_text: Датико помялся. Потом решился:									
+1	ბრიგადირი	ბრიგადირი	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	3	nsubj	_	Translit=brigadiri
+2	უხერხულად	უხერხულად	ADV	_	AdvType=Temp	3	advmod	_	Translit=uxerxulad
+3	შეიშმუშნა	იშმუშნებს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	0	root	_	Translit=šeišmušna
+4	.	.	PUNCT	_	_	3	punct	_	_
+#sent_id: 34									
+#text: — გადი, ბიჭო ერთი წუთით გარეთ, სიტყვა მაქვს სათქმელი ქეთოსთან. — შემევედრა ბრიგადირი.									
+#transliteration: — gadi, bič’o erti с’utit garet, sit’q’va makvs satkmeli ketostan. — šemevedra brigadiri.									
+#ru_text: - Слушай, Сосойя, будь человеком, выйди на минутку, дай поговорить с Кето!									
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	გადი	გადის	VERB	_	Transitivity=Intr|VerbForm=Fin|TAMSeries=AorImp|Subj=2Sing	0	root	_	Translit=gadi
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	ბიჭო	ბიჭი	NOUN	_	Animacy=Anim|Number=Sing|Case=Voc	2	parataxis	_	Translit=bič’o 
+5	ერთი	ერთი	NUM	_		7	nummod:gov	_	Translit=erti 
+6	წუთით	წუთი	NOUN	_	Animacy=Inan|Number=Sing|Case=Ins	2	obl	_	Translit=с’utit 
+7	გარეთ	გარეთ	ADV		AdvType=Loc	2	advmod	_	Translit=garet
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	სიტყვა	სიტყვა	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	10	obj	_	Translit=sit’q’va
+10	მაქვს	აქვს	VERB	_	Transitivity=Intr|VerbForm=Fin|TAMSeries=Pres|Subj=1Sing	2	conj	_	Translit=makvs
+11	სათქმელი	სათქმელი	ADJ	_	Number=Sing|Case=Nom	9	amod	_	Translit=satkmeli
+12-13	ქეთოსთან	_	_	_	_	_	_	_	_
+12	ქეთოს	ქეთო	PROPN	_	Animacy=Anim|Number=Sing|Case=Dat	10	obl		Translit=ketos
+13	თან	თან	ADP	_	_	12	case		Translit=tan
+14	.	.	PUNCT	_	_	10	punct	_	_
+15	—	—	PUNCT	_	_	15	punct	_	_
+16	შემევედრა	ვედრებს	VERB	_	VerbForm=Fin|TAMSeries=Aor|Subj=3Sing|Obj=1	2	parataxis	_	Translit=šemevedra
+17	ბრიგადირი	ბრიგადირი	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	16	nsubj	_	Translit=brigadiri
+18	.	.	PUNCT	_		2	punct	_	_
+#sent_id: 35									
+#text: — თუ რამე გაქვს სათქმელი, ჩემთან უთხარი, — ვუპასუხე და ისე მოხერხებულად დავჯექი, ვინმე სკამიანად თუ გამიტანდა გარეთ, თორემ ისე ვერაფრით ვერ ამაგლეჯდა ადგილიდან.									
+#transliteration: — tu rame gakvs satkmeli, čemtan utxari, — vup’asuxe da ise moxerxebulad davǯeki, vinme sk’amianad tu gamit’anda garet, torem ise veraprit ver amagleǯda adgilidan.									
+#ru_text: - А я мешаю? Говори при мне! - ответил я и уселся так прочно, что сдвинуть меня с места смогли бы разве только вместе со стулом.									
+1	—	—	PUNCT	_	_	4	punct	_	_
+2	თუ	თუ	CCONJ	_	_	9	cc	_	Translit=tu
+3	რამე	რამე	PRON	_	PronType=Intr|Number=Sing	4	obj	_	Translit=rame
+4	გაქვს	აქვს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Intr|VerbType=RelStat|VerbForm=Fin|TAMSeries=Imperf|Subj=2Sing	0	root	_	Translit=gakvs
+5	სათქმელი	სათქმელი	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	4	nmod	_	Translit=satkmeli
+6	,	,	PUNCT	_	_	4	punct	_	_
+7-8	ჩემთან	_	_	_	_	_	_	_	_
+7	ჩემს	ჩემი	PRON	_	PronType=Poss|Person=1|Number=Sing|Case=Dat	9	obj		Translit=čems
+8	თან	თან	ADP	_	_	7	case		Translit=tan
+9	უთხარი	უთხრობს	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=AorImp|Subj=2Sing	4	conj	_	Translit=utxari
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	—	—	PUNCT	_	_	12	punct	_	_
+12	ვუპასუხე	პასუხობს	VERB	_	Aspect=Ipfv|Voice=AutoAct|Transitivity=Intr|VerbType=RelStat|VerbForm=Fin|TAMSeries=Aor|Subj=1Sing	4	parataxis	_	Translit=vup’asuxe
+13	და	და	CCONJ	_	_	16	cc	_	Translit=da
+14	ისე	ისე	ADV	_	AdvType=Mod	15	advmod	_	Translit=ise
+15	მოხერხებულად	მოხერხებულად	ADV	_	AdvType=Mod	16	advmod	_	Translit=moxerxebulad
+16	დავჯექი	ზის	VERB	_	Aspect=Pfv|Voice=AutoAct|Transitivity=Intr|VerbForm=Fin|TAMSeries=Aor|Subj=1Sing	12	conj	_	Translit=davǯeki
+17	,	,	PUNCT	_		16	punct	_	_
+18	ვინმე	ვინმე	PRON	_	PronType=Indf|Number=Sing|Case=Nom	21	nsubj	_	Translit=vinme
+19	სკამიანად	სკამიანად	ADV	_	AdvType=Mod	21	advmod	_	Translit=sk’amianad 
+20	თუ	თუ	CCONJ	_	_	21	mark	_	Translit=tu
+21	გამიტანდა	იტანს	VERB	_	Transitivity=Inv|VerbForm=Fin|TAMSeries=FutCond|Subj=3Sing|Obj=1	12	conj	_	Translit=gamit’anda
+22	გარეთ	გარეთ	ADV	_	AdvType=Loc	21	advmod	_	Translit=garet
+23	,	,	PUNCT	_	_	27	punct	_	_
+24	თორემ	თორემ	CCONJ	_	_	27	mark	_	Translit=torem
+25	ისე	ისე	ADV	_	AdvType=Mod	27	advmod	_	Translit=ise
+26	ვერაფრით	ვერაფრ	PRON	_	PronType=Neg|Number=Sing|Case=Ins	27	obl	_	Translit=veraprit
+27	ვერ	ერევა	VERB	_	Aspect=Ipfv|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=AorSubj|Subj=1Sing|Obj=3|ObjRole=Rec	12	conj	_	Translit=ver
+28	ამაგლეჯდა	აგლეჯა	VERB	_	Transitivity=Trans|VerbForm=Fin|TAMSeries=FutCond	27	csubj	_	Translit=amagleǯda
+29-30	ადგილიდან	_	_	_	_	_	_	_	_
+29	ადგილის	ადგილი	NOUN	_	Animacy=Inan|Number=Sing|Case=Gen	28	obl		Translit=adgilis
+30	დან	დან	ADP	_	_	29	case		Translit=dan
+31	.	.	PUNCT	_	_	4	punct	_	_
+#sent_id: 36									
+#text: — უფროსი და უმცროსი, სტუმარი და მასპინძელი არ იცი, ბიჭო, შენ?									
+#transliteration: — uprosi da umсrosi, st’umari da masp’inʒeli ar iсi, bič’o, šen?									
+#ru_text: - И это ты называешь уважением младшего к старшему, хозяина - к гостю?!									
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	უფროსი	უფროსი	ADJ	_	Degree=Pos|Number=Sing|Case=Nom	0	root	_	Translit=uprosi
+3	და	და	CCONJ	_	_	4	cc	_	Translit=da
+4	უმცროსი	უმცროსი	ADJ	_	Degree=Pos|Number=Sing|Case=Nom	2	conj	_	Translit=umсrosi
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	სტუმარი	სტუმარი	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	2	parataxis	_	Translit=st’umari
+7	და	და	CCONJ	_	_	7	cc	_	Translit=da
+8	მასპინძელი	მასპინძელი	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	6	conj	_	Translit=masp’inʒeli
+9	არ	არ	PRON	_	PronType=Refl	10	obj	_	Translit=ar
+10	იცი	იცის	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Imperf|Subj=2Sing	6	parataxis	_	Translit=iсi
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	ბიჭო	ბიჭი	NOUN	_	Animacy=Anim|Number=Sing|Case=Voc	10	obl	_	Translit=bič’o
+13	,	,	PUNCT	_	_	10	punct	_	_
+14	შენ	შენ	PRON	_	PronType=Pers|Person=2|Number=Sing|Case=Voc	10	obl	_	Translit=šen
+15	?	?	PUNCT	_	_	2	punct	_	_
+#sent_id: 37									
+#text: — მკითხა ბრიგადირმა და ისე შემომხედა, მივხვდი: მამიდაჩემის რიდი რომ არა, სიამოვნებით ამახევდა ყურს.									
+#transliteration: — mk’itxa brigadirma da ise šemomxeda, mivxvdi: mamidačemis ridi rom ara, siamovnebit amaxevda q’urs.									
+#ru_text: - Бригадир взглянул на меня так, что я понял: не будь здесь тети, он с удовольствием оборвал бы мне уши.									
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	მკითხა	ეკითხება	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing|Obj=1Sing	0	root	_	Translit=mk’itxa
+3	ბრიგადირმა	ბრიგადირი	NOUN	_	Animacy=Anim|Number=Sing|Case=Erg	2	nsubj	_	Translit=brigadirma
+4	და	და	CCONJ	_	_	6	cc	_	Translit=da
+5	ისე	ისე	ADV	_	AdvType=Mod	6	advmod	_	Translit=ise
+6	შემომხედა	ხედავს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing|Obj=1Sing	2	conj	_	Translit=šemomxeda
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	მივხვდი	ხვდება	VERB	_	Aspect=Pfv|Voice=AutoAct|Transitivity=IndTrans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=1Sing	2	conj	_	Translit=mivxvdi
+9	:	:	PUNCT	_	_		punct	_	_
+10-11	მამიდაჩემის	_	_	_	_	_	_	_	_
+10	მამიდას	მამიდა	NOUN	_	Animacy=Anim|Number=Sing|Case=Gen	12	nmod	_	Translit=mamidas
+11	ჩემის	ჩემი	PRON	_	PronType=Poss|Person=1|Number=Sing|Case=Gen	10	amod	_	Translit=čemis 
+12	რიდი	რიდი	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	8	parataxis	_	Translit=ridi
+13	რომ	რომ	SCONJ	_	 	12	mark	_	Translit=rom
+14	არა	არა	PART	_	Polarity=Neg	12	advmod	_	Translit=ara
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	სიამოვნებით	სიამოვნება	NOUN	_	Animacy=Inan|Number=Sing|Case=Ins	17	nmod	_	Translit=siamovnebit
+17	ამახევდა	ხევს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=FutCond|Subj=3Sing|Obj=1Sing	2	conj	_	Translit=amaxevda
+18	ყურს	ყური	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	17	obj	_	Translit=q’urs
+19	.	.	PUNCT	_	_	2	punct	_	_
+#sent_id: 38									
+#text: — ყოველ ღამე სტუმარი არ გამიგია მე!									
+#transliteration: — q’ovel ɣame st’umari ar gamigia me!									
+#ru_text: - Какой ты гость? Торчишь здесь каждый божий день!									
+1	—	—	PUNCT	_	_	6	punct	_	_
+2	ყოველ	ყოველი	PRON	_	PronType=Det|Number=Sing|Case=Nom	4	det	_	Translit=q’ovel
+3	ღამე	ღამე	ADV	_	AdvType=Temp	6	advmod	_	Translit=ɣame
+4	სტუმარი	სტუმარი	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	6	obj	_	Translit=st’umari
+5	არ	არ	PART	_	_	6	advmod	_	Translit=ar
+6	გამიგია	იგებს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Res1|Subj=1Sing	0	root	_	Translit=gamigia
+7	მე	მე	PRON	_	PronType=Pers|Person=1|Number=Sing|Case=Nom	6	nsubj	_	Translit=me
+8	!	!	PUNCT	_	_	6	punct	_	_
+#sent_id: 39					 				
+#text: — გაჩერდი, ბიჭო! — გამიჯავრდა მამიდა.									
+#transliteration: — gačerdi, bič’o! — gamiǯavrda mamida.									
+#ru_text: - Замолчи, Сосойя! - прикрикнула на меня тетя.									
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	გაჩერდი	აჩერებს	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=2Sing	7	parataxis	_	Translit=gačerdi
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	ბიჭო	ბიჭი	NOUN	_	Animacy=Anim|Number=Sing|Case=Voc	2	obl	_	Translit=bič’o
+5	!	!	PUNCT	_	_	7	punct	_	_
+6	—	—	PUNCT	_	_	7	punct	_	_
+7	გამიჯავრდა	ჯავრდება	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing|Obj=1Sing	0	root	_	Translit=gamiǯavrda
+8	მამიდა	მამიდა	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	7	nsubj	_	Translit=mamida
+9	.	.	PUNCT	_	_	7	punct	_	_
+#sent_id: 40									
+#text: — მე ბრიგადირი ვარ და ყველას ოჯახში ასე დავიარები. — ამიხსნა დათიკომ.									
+#transliteration: — me brigadiri var da q’velas oǯaxši ase daviarebi. — amixsna datik’om.									
+#ru_text: - На то я и бригадир, чтобы навещать всех членов своей бригады, объяснил Датико.									
+1	—	—	PUNCT	_	_	4	punct	_	_
+2	მე	მე	PRON	_	PronType=Pers|Person=1|Number=Sing|Case=Erg	4	nsubj	_	Translit=me
+3	ბრიგადირი	ბრიგადირი	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	4	obj	_	Translit=brigadiri
+4	ვარ	არის	VERB	_	Transitivity=Intr|VerbForm=Aux|TAMSeries=Pres|Subj=1Sing	0	root	_	Translit=var
+5	და	და	CCONJ	_	_	10	cc	_	Translit=da
+6	ყველას	ყველა	PRON	_	PronType=Indf|Number=Sing|Case=Dat	7	amod	_	Translit=q’velas 
+7-8	ოჯახში	_	_	_	_	_	_	_	_
+7	ოჯახს	ოჯახი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	10	obl		Translit=oǯaxs
+8	ში	ში	ADP	_	_	7	case		Translit=ši 
+9	ასე	ასე	ADV	_	AdvType=Mod	10	advmod	_	Translit=ase
+10	დავიარები	იარებს	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Pres|Subj=1Sing	4	conj	_	Translit=daviarebi
+11	.	.	PUNCT	_	_	4	punct	_	_
+12	—	—	PUNCT	_	_	13	punct	_	_
+13	ამიხსნა	იხსნის	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing|Obj=1Sing	10	conj	_	Translit=amixsna
+14	დათიკომ	დათიკო	PROPN	_	Animacy=Anim|Number=Sing|Case=Erg	13	nsubj	_	Translit=datik’om
+15	.	.	PUNCT	_	_	4	punct	_	_
+#sent_id: 41									
+#text: — ჰოდა, ბრიგადირი თუ ხარ და ყველას ოჯახში თუ ასე დაიარები, გადადი ახლა სხვის ოჯახში!									
+#transliteration: — hoda, brigadiri tu xar da q’velas oǯaxši tu ase daiarebi, gadadi axla sxvis oǯaxši!									
+#ru_text: - Вот и прекрасно! Навестил нас, теперь ступай к другим!									
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	ჰოდა	ჰოდა	PART	_	_	0	root	_	Translit=hoda
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	ბრიგადირი	ბრიგადირი	NOUN	_	Animacy=Anim|Number=Sing|Case=Voc	2	parataxis	_	Translit=brigadiri
+5	თუ	თუ	CCONJ	_	_	13	mark	_	Translit=tu
+6	ხარ	ხარ	PRON	_	PronType=Pers|Person=2	13	nsubj	_	Translit=xar
+7	და	და	CCONJ	_		11	cc	_	Translit=da
+8	ყველას	ყველა	PRON	_	PronType=Det|Number=Sing|Case=Dat	9	det	_	Translit=q’velas
+9-10	ოჯახში	_	_	_	_	_	_	_	_
+9	ოჯახს	ოჯახი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	13	obl		Translit=oǯaxs
+10	ში	ში	ADP	_	_	9	case		Translit=ši
+11	თუ	თუ	CCONJ	_	_	13	mark	_	Translit=tu
+12	ასე	ასე	ADV	_	AdvType=Mod	13	advmod	_	Translit=ase
+13	დაიარები	დაიარება	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Pres|Subj=2Sing	2	parataxis	_	Translit=daiarebi
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	გადადი	გადადის	VERB	_	Aspect=Ipfv|Transitivity=Intr|VerbForm=Fin|TAMSeries=AorImp|Subj=2Sing	13	conj	_	Translit=gadadi
+16	ახლა	ახლა	ADV	_	AdvType=Temp	15	advmod	_	Translit=axla
+17	სხვის	სხვი	PRON	_	PronType=Det|Number=Sing|Case=Dat	18	amod	_	Translit=sxvis
+18-19	ოჯახში	_	_	_	_	_	_	_	_
+18	ოჯახს	ოჯახი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	15	obl		Translit=oǯaxs
+19	ში	ში	ADP	_	_	18	case		Translit=ši
+20	!	!	PUNCT	_	_	2	punct	_	_
+#sent_id: 42									
+#text: — რა უნდა, ქეთო, ამ ბიჭს, რომ მჭამს ცოცხლად? — ჰკითხა ბრიგადირმა მამიდაჩემს.									
+#transliteration: — ra unda, keto, am bič’s, rom mč’ams сoсxlad? — hk’itxa brigadirma mamidačems.									
+#ru_text: - Чего это он грызет меня, Кето? - обратился Датико к тете.									
+1	—	—	PUNCT	_	_	3	punct	_	_
+2	რა	რა	PRON	_	PronType=QA|Case=Nom	3	mark	_	Translit=ra
+3	უნდა	უნდა	VERB	_	Aspect=Ipfv|Voice=AutoAct|Transitivity=Intr|VerbType=Din|VerbForm=Aux|TAMSeries=Pres|Subj=3Sing	0	root	_	Translit=unda
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	ქეთო	ქეთო	PROPN	_	Animacy=Anim|Number=Sing|Case=Voc	3	obl	_	Translit=keto
+6	,	,	PUNCT	_	_	3	punct	_	_
+7	ამ		PRON	_	PronType=Dem|Person=3|Number=Sing|Case=Dat	8	det	_	Translit=am
+8	ბიჭს	ბიჭი	NOUN	_	Animacy=Anim|Number=Sing|Case=Dat	3	obj	_	Translit=bič’s
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	რომ	რომ	SCONJ	_	_	11	mark	_	Translit=rom
+11	მჭამს	ჭამს	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Imperf|Subj=3Sing|Obj=1Sing	3	conj	_	Translit=mč’ams
+12	ცოცხლად	ცოცხლად	ADV	_	AdvType=Mod	11	advmod	_	Translit=сoсxlad
+13	?	?	PUNCT	_	_	11	punct	_	_
+14	—	—	PUNCT	_	_	15	punct	_	_
+15	ჰკითხა	ჰკითხს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Imperf|Subj=3Sing	3	conj	_	Translit=hk’itxa
+16	ბრიგადირმა	ბრიგადირი	NOUN	_	Animacy=Anim|Number=Sing|Case=Erg	15	nsubj	_	Translit=brigadirma
+17-18	მამიდაჩემს	_	_	_	_	_	_	_	_
+18	მამიდას	მამიდა	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	15	nsubj	_	Translit=mamidas
+19	ჩემს	ჩემს	PRON	_	PronType=Poss|Person=1|Number=Sing|Case=Nom	18	amod	_	Translit=čems
+20	.	.	PUNCT	_	_	3	punct	_	_
+#sent_id: 43									
+#text: — თქვი, დათიკო, რა გინდა!									
+#transliteration: — tkvi, datik’o, ra ginda!									
+#ru_text: - Говори, Датико, что у тебя за дело?									
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	თქვი	თქვამს	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=2Sing	0	root	_	Translit=tkvi
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	დათიკო	დათიკო	PROPN	_	Animacy=Anim|Number=Sing|Case=Voc	2	parataxis	_	Translit=dat'iko
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	რა	რა	PRON	_	PronType=QA|Number=Sing|Case=Nom	7	mark	_	Translit=ra
+7	გინდა	უნდა	VERB	_	Transitivity=Trans|VerbForm=Aux|TAMSeries=Pres|Subj=2Sing	2	conj	_	Translit=ginda
+8	!	!	PUNCT	_	_	2	punct	_	_
+#sent_id: 44									
+#text: დათიკო შეიშმუშნა და ხრინწიანი ხმით დაიწყო: — ხვალ მერიაში მივდივართ ყანის სათოხარად და ბიჭი დაგვახმარე, ჩემო ქეთო.									
+#transliteration: datik’o šeišmušna da xrinс’iani xmit daiс’q’o: — xval meriaši mivdivart q’anis satoxarad da bič’i dagvaxmare, čemo keto.									
+#ru_text: - А вот что: завтра после полудня наша бригада едет в Мериа... Будем кукурузу мотыжить... Может, отпустишь парня? Как-никак помощник...									
+1	დათიკო	დათიკო	PROPN	_	Animacy=Anim|Number=Sing|Case=Nom	2	nsubj	_	Translit=datik’o
+2	შეიშმუშნა	იშმუშნებს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	0	root	_	Translit=šeišmušna
+3	და	და	CCONJ	_	_	6	cc	_	Translit=da
+4	ხრინწიანი	ხრინწიანი	ADJ	_	Degree=Pos|Number=Sing|Case=Ins	5	amod	_	Translit=xrinс’iani
+5	ხმით	ხმა	NOUN	_	Animacy=Inan|Number=Sing|Case=Ins	6	nmod	_	Translit=xmit
+6	დაიწყო	იწყობს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	2	conj	_	Translit=daiс’q’o
+7	:	:	PUNCT	_	_	2	punct	_	_
+8	—	—	PUNCT	_	_	12	punct	_	_
+9	ხვალ	ხვალ	ADV	_	AdvType=Temp	12	advmod	_	Translit=xval
+10-11	მერიაში	_	_	_	_	_	_	_	_
+10	მერიას	მერია	PROPN	_	Animacy=Inan|Number=Sing|Case=Dat	12	obl		Translit=merias
+11	ში	ში	ADP	_	_	11	case		Translit=ši 
+12	მივდივართ	მიდის	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Pres|Subj=3Sing	6	conj	_	Translit=mivdivart
+13	ყანის	ყანა	NOUN	_	Animacy=Inan|Number=Sing|Case=Gen	14	obj	_	Translit=q’anis 
+14	სათოხარად	თოხებს	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Fut|SUbj=3Sing	12	xcomp	_	Translit=satoxarad
+15	და	და	CCONJ	_	_	17	cc	_	Translit=da
+16	ბიჭი	ბიჭი	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	17	obj	_	Translit=bič’i
+17	დაგვახმარე	ეხმარებს	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Fut|SUbj=3Sing|Obj=1Plur	12	conj	_	Translit=dagvaxmare
+18	,	,	PUNCT	_	_	12	punct	_	_
+19	ჩემო	ჩემო	PRON	_	PronType=Poss|Person=1|Number=Sing|Case=Voc	20	amod	_	Translit=čemo 
+20	ქეთო	ქეთო	PROPN	_	Animacy=Anim|Number=Sing|Case=Voc	16	parataxis	_	Translit=keto
+21	.	.	PUNCT	_	_	2	punct	_	_
+#sent_id: 45									
+#text: გაიგე ახლა რა საქმეზე ვარ მოსული? — შემომიღრინა მან.									
+#transliteration: gaige axla ra sakmeze var mosuli? — šemomiɣrina man.									
+#ru_text: Понял теперь, почему я пришел? - обернулся бригадир ко мне.									
+1	გაიგე	იგებს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=2Sing	0	root	_	Translit=gaige
+2	ახლა	ახლა	ADV	_	AdvType=Temp	1	advmod	_	Translit=axla
+3	რა	რა	PRON	_	PronType=Indf|Number=Sing	6	mark	_	Translit=ra
+4-5	საქმეზე	_	_	_	_	_	_	_	_
+4	საქმეს	საქმე	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	6	obl		Translit=sakmes
+5	ზე	ზე	ADP	_	_	4	case		Translit=ze
+6	ვარ	არის	VERB	_	Transitivity=Intr|VerbForm=Aux|TAMSeries=Pres|Subj=1Sing	1	cc	_	Translit=var
+7	მოსული	მოსული	ADJ	_	Degree=Pos|Number=Sing|Case=Nom	6	amod	_	Translit=mosuli
+8	?	?	PUNCT	_	_	1	punct	_	_
+9	—	—	PUNCT	_	_	10	punct	_	_
+10	შემომიღრინა	უღრენს	VERB	_	Aspect=Pfv|Voice=IndAct|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor	1	parataxis	_	Translit=šemomiɣrina
+11	მან	იგი	PRON	_	PronType=Pers|Person=3|Number=Sing|Case=Erg	10	nsubj	_	Translit=man
+12	.	.	PUNCT	_	_	1	punct	_	_
+#sent_id: 46									
+#text: — გავიგე! — შევუღრინე მეც.									
+#transliteration: — gavige! — ševuɣrine meс.									
+#ru_text: - Понял! - огрызнулся я.									
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	გავიგე	იგებს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=1Sing	0	root	_	Translit=gavige
+3	!	!	PUNCT	_	_	2	punct	_	_
+4	—	—	PUNCT	_	_	5	punct	_	_
+5	შევუღრინე	უღრენს	VERB	_	Aspect=Pfv|Voice=IndAct|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=1Sing	2	parataxis	_	Translit=ševuɣrine
+6-7	მეც	_	_	_	_	_	_	_	_
+6	მე	მე	PRON	_	PronType=Pers|Person=1|Number=Sing|Case=Nom	5	nsubj		Translit=me
+7	ც	ც	PART	_	_	5	advmod		Translit=c
+8	.	.	PUNCT	_	_	2	punct	_	_
+#sent_id: 47									
+#text: მამიდას გაეღიმა.									
+#transliteration: mamidas gaeɣima.									
+#ru_text: Тетя опять улыбнулась.									
+1	მამიდას	მამიდა	NOUN	_	Animacy=Anim|Number=Sing|Case=Dat	2	nsubj	_	Translit=mamidas
+2	გაეღიმა	გაღიმება	VERB	_	Aspect=Ipfv|Voice=IndAct|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Imperf|Subj=3Sing	0	root	_	Translit=gaeɣima
+3	.	.	PUNCT	_	_	2	punct	_	_
+#sent_id: 48									
+#text: იგი ადგა, ბუხართან მივიდა, კეციდან ნაკვერჩხლიანი თუნუქი გადმოიღო, ჭადზე თითები დააკაკუნა, თუ გამოცხვაო, მერე არეკა, ტილოში გაახვია და მაგიდაზე დადო.									
+#transliteration: igi adga, buxartan mivida, k’eсidan nak’verčxliani tunuki gadmoiɣo, č’adze titebi daak’ak’una, tu gamoсxvao, mere arek’a, t’iloši gaaxvia da magidaze dado.									
+#ru_text: Потом она встала, подошла к камину, сбросила с кеци [Кеци - круглая глиняная сковородка для выпечки мчади - кукурузной ледешки] жестяной лист, покрытый слоем горячих углей, проверила, испеклось ли мчади, завернула его в полотенце и положила на стол.									
+1	იგი	იგი	PRON	_	PronType=Pers|Person=3|Number=Sing|Case=Nom	2	nsubj	_	Translit= igi
+2	ადგა	დგამს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	0	root	_	Translit=adga
+3	,	,	PUNCT	_	_	2	punct	_	_
+4-5	ბუხართან	_	_	_	_	_	_	_	_
+4	ბუხარს	ბუხარი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	6	obl	_	Translit=buxars
+5	თან	თან	ADP	_	_	4	case	_	Translit=tan
+6	მივიდა	მიდის	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	2	conj	_	Translit=mivida
+7	,	,	PUNCT	_	_	6	punct	_	_
+8-9	კეციდან	_	_	_	_	_	_	_	_
+8	კეცის	კეცი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	12	iobj	_	Translit=k’eсis
+9	დან	დან	ADP	_	_	8	case	_	Translit=dan
+10	ნაკვერჩხლიანი	ნაკვერჩხლიანი	ADJ	_	Degree=Pos|Number=Sing|Case=Nom	11	amod	_	Translit=nak’verčxliani
+11	თუნუქი	თუნუქი	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	12	obj	_	Translit=tunuki
+12	გადმოიღო	იღებს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	6	conj	_	Translit=gadmoiɣo
+13	,	,	PUNCT	_	_	12	punct	_	_
+14-15	ჭადზე	_	_	_	_	_	_	_	_
+14	ჭადს	ჭადი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	17	obl	_	Translit=č’ads
+15	ზე	ზე	ADP	_	_	14	case	_	Translit=ze
+16	თითები	თითი	NOUN	_	Animacy=Inan|Number=Plur|Case=Nom	17	iobj	_	Translit=titebi
+17	დააკაკუნა	აკაკუნებს	VERB	_	Aspect=Pfv|Voice=AutoAct|Transitivity=Intr|VerbType=RelStat|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	12	conj	_	Translit=daak’ak’una
+18	,	,	PUNCT	_	_	17	punct	_	_
+19	თუ	თუ	CCONJ	_	_	20	mark	_	Translit=tu
+20	გამოცხვაო	ცხვებს	VERB	_	Aspect=Pfv|Voice=AutoAct|Transitivity=IndTrans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	17	conj	_	Translit=gamoсxvao
+21	,	,	PUNCT	_	_	20	punct	_	_
+22	მერე	მერე	ADV	_	AdvType=Temp	23	advmod	_	Translit=mere
+23	არეკა	არეკავს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	17	conj	_	Translit=arek’a
+24	,	,	PUNCT	_	_	23	punct	_	_
+25-26	ტილოში	_	_	_	_	_	_	_	_
+25	ტილოს	ტილო	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	27	obl	_	Translit=t’ilos
+26	ში	ში	ADP	_	_	25	case	_	Translit=ši
+27	გაახვია	ახვევს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	17	conj	_	Translit=gaaxvia
+28	და	და	CCONJ	_	_	31	cc	_	Translit=da
+29-30	მაგიდაზე	_	_	_	_	_	_	_	_
+29	მაგიდას	მაგიდა	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	31	obl	_	Translit=magidas
+30	ზე	ზე	ADP	_	_	29	case	_	Translit=ze
+31	დადო	დებს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	27	conj	_	Translit=dado
+32	.	.	PUNCT	_	_	2	punct	_	_
+#sent_id: 49									
+#text: ახლა დერგთან მივიდა, შიგ ხელი ჩაყო, დიდი წველა ყველი ამოარჩია, მაგრად დაწურა და ჭადს ზევიდან დაადო.									
+#transliteration: axla dergtan mivida, šig xeli čaq’o, didi с’vela q’veli amoarčia, magrad daс’ura da č’ads zevidan daado.									
+#ru_text: Затем достала из бочонка головку сыра покрупнее, отжала ее и положила на мчади.									
+1	ახლა	ახლა	ADV	_	AdvType=Temp	4	advmod	_	Translit=axla
+2-3	დერგთან	_	_	_	_	_	_	_	_
+2	დერგს	დერგი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	4	obl	_	Translit=dergs
+3	თან	თან	ADP	_	_	2	case	_	Translit=tan
+4	მივიდა	მიდის	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=2Sing	0	root	_	Translit=mivida
+5	,	,	PUNCT	_		4	punct	_	_
+6	შიგ	შიგ	ADV	_	AdvType=Loc	8	advmod	_	Translit=šig
+7	ხელი	ხელი	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	8	obj	_	Translit=xeli
+8	ჩაყო	ყოფს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	4	conj	_	Translit=čaq’o
+9	,	,	PUNCT	_	_	8	punct	_	_
+10	დიდი	დიდი	ADJ	_	Degree=Pos|Number=Sing|Case=Nom	11	amod	_	Translit=didi
+11	წველა	წველა	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	13	obj	_	Translit=с’vela
+12	ყველი	ყველი	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	11	nmod	_	Translit=q’veli
+13	ამოარჩია	ამოარჩევს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	4	conj	_	Translit=amoarčia
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	მაგრად	მაგრადი	ADV	_	AdvType=Mod	16	advmod	_	Translit=magrad
+16	დაწურა	წურევს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	4	conj	_	Translit=daс’ura
+17	და	და	CCONJ	_	_	20	cc	_	Translit=da
+18	ჭადს	ჭადი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	20	obj	_	Translit=č’ads
+19	ზევიდან	ზევიდან	ADV	_	AdvType=Loc	20	advmod	_	Translit=zevidan
+20	დაადო	ადება	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing|obj=3Sing|ObjRole=Loc	16	conj	_	Translit=daado
+21	.	.	PUNCT	_	_	4	punct	_	_
+#sent_id: 50									
+#text: ბრიგადირი მიხვდა, მამიდა საგზალს მიხაზირებდა და სახე გამოედარა.									
+#transliteration: brigadiri mixvda, mamida sagzals mixazirebda da saxe gamoedara.									
+#ru_text: Поняв, что тетя готовит мне завтрак в дорогу, Датико улыбнулся. - Договорились, значит?									
+1	ბრიგადირი	ბრიგადირი	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	2	nsubj	_	Translit=brigadiri
+2	მიხვდა	ხვდებს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	0	root	_	Translit=mixvda
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	მამიდა	მამიდა	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	6	nsubj	_	Translit=mamida
+5	საგზალს	საგზალი	NOUN	_	Animacy=Anim|Number=Sing|Case=Gen	6	obj	_	Translit=sagzals
+6	მიხაზირებდა	ხაზირებს	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	2	parataxis	_	Translit=mixazirebda
+7	და	და	CCONJ	_	_	9	cc	_	Translit=da
+8	სახე	სახე	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	9	obl	_	Translit=saxe
+9	გამოედარა	ედარს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Imperf|Subj=3Sing	2	conj	_	Translit=gamoedara
+10	.	.	PUNCT	_	_	2	punct	_	_
+#sent_id: 51									
+#text: — წადი ახლა, დათიკო, — სთხოვა მამიდამ.									
+#transliteration: — с’adi axla, datik’o, — stxova mamidam.									
+#ru_text: - Договорились, - ответила тетя, - а теперь... извини, Датико, дела у меня...									
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	წადი	მოდის	VERB	_	Transitivity=Intr|VerbForm=Fin|TAMSeries=AorImp|Subj=2Sing	0	root	_	Translit=с’adi
+3	ახლა	ახლა	ADV	_	AdvType=Temp	2	advmod	_	Translit=axla
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	დათიკო	დათიკო	PROPN	_	Animacy=Anim|Number=Sing|Case=Voc	2	parataxis	_	Translit=datik’o
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	—	—	PUNCT	_	_	8	punct	_	_
+8	სთხოვა	სთხოვს	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	2	parataxis	_	Translit=stxova
+9	მამიდამ	მამიდა	NOUN	_	Animacy=Anim|Number=Sing|Case=Erg	8	nsubj	_	Translit=mamidam
+10	.	.	PUNCT	_	_	2	punct	_	_
+#sent_id: 52									
+#text: დათიკო კარისაკენ წავიდა, ზღურბლთან შემოტრიალდა და თქვა: — ალიონზე ფოსტის წინ მოვიყრით თავს, იქ მოდი, ჩემო სოსოია, არ გრცხვენია, რომ მეჩხუბები?!									
+#transliteration: datik’o k’arisak’en с’avida, zɣurbltan šemot’rialda da tkva: — alionze post’is с’in moviq’rit tavs, ik modi, čemo sosoia, ar grсxvenia, rom mečxubebi?!									
+#ru_text: Переступив порог, он Обернулся и сказал: - В полдень соберемся у почты. Придешь туда, Сосойя, ладно? И перестань, ради бога, дуться на меня!									
+1	დათიკო	დათიკო	PROPN	_	Animacy=Anim|Number=Sing|Case=Nom	4	nsubj	_	Translit=datik’o
+2-3	კარისაკენ	_	_	_	_	_	_	_	_
+2	კარს	კარი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	4	obl	_	Translit=k’ars
+3	კენ	კენ	ADP	_	_	2	case	_	Translit=k’en
+4	წავიდა	მოდის	VERB	_	Transitivity=Intr|VerbForm=Fin|TAMSeries=Aor|Subj=2Sing	0	root	_	Translit=с’avida
+5	,	,	PUNCT	_	_	8	punct	_	_
+6-7	ზღურბლთან	_	_	_	_	_	_	_	_
+6	ზღურბლს	ზღურბლი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	4	obl	_	Translit=zɣurbls
+7	თან	თან	ADP	_	_	6	case	_	Translit=tan
+8	შემოტრიალდა	ტრიალებს	VERB	_	Aspect=Pfv|Voice=AutoAct|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	4	conj	_	Translit=šemot’rialda
+9	და	და	CCONJ	_	_	8	сс	_	Translit=da
+10	თქვა	თქვამს	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	4	conj	_	Translit=tkva
+11	:	:	PUNCT	_	_	10	punct	_	_
+12	—	—	PUNCT	_	_	17	punct	_	_
+13-14	ალიონზე	_	_	_	_	_	_	_	_
+13	ალიონს	ალიონი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	17	obl	_	Translit=alions
+14	ზე	ზე	ADP	_	_	13	case	_	Translit=ze
+15	ფოსტის	ფოსტა	NOUN	_	Animacy=Inan|Number=Sing|Case=Gen	13	nmod	_	Translit=post’is
+16	წინ	წინ	ADV	_	AdvType=Loc	17	advmod	_	Translit=с’in
+17	მოვიყრით	იყრის	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Fut|Subj=1Plur|ObjRole=Ben	4	parataxis	_	Translit=moviq’rit
+18	თავს	თავი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	17	nmod	_	Translit=tavs
+19	,	,	PUNCT	_	_	21	punct	_	_
+20	იქ	იქ	ADV	_	AdvType=Loc	21	advmod	_	Translit=ik
+21	მოდი	მოდის	VERB	_	Transitivity=Intr|VerbForm=Fin|TAMSeries=AorImp|Subj=2Sing	17	conj	_	Translit=modi
+22	,	,	PUNCT	_	_	24	punct	_	_
+23	ჩემო	ჩემი	PRON	_	PronType=Poss|Person=1|Number=Sing|Case=Voc	24	amod	_	Translit=čemo
+24	სოსოია	სოსოია	PROPN	_	Animacy=Anim|Number=Sing|Case=Voc	21	parataxis	_	Translit=sosoia
+25	,	,	PUNCT	_	_	27	punct	_	_
+26	არ	არ	PART	_	_	27	parataxis	_	Translit=ar
+27	გრცხვენია	რცხვენია	VERB	_	Aspect=Ipfv|Voice=Inact|Transitivity=IndTrans|VerbForm=Fin|TAMSeries=Pres|Subj=2Sing	17	conj	_	Translit=grсxvenia
+28	,	,	PUNCT	_	_	30	punct	_	_
+29	რომ	რომ	SCONJ	_	_	30	mark	_	Translit=rom
+30	მეჩხუბები 	ეჩხუბება	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Pres|Subj=2Sing|Obj=1Sing|ObjRole=Rec	17	conj	_	Translit=mečxubebi
+31	?	?	PUNCT	_	_	4	punct	_	_
+32	!	!	PUNCT	_	_	4	punct	_	_
+#sent_id: 53									
+#text: რა გვაქვს მე და შენ გასაყოფი?									
+#transliteration: ra gvakvs me da šen gasaq’opi?									
+#ru_text: Что нам с тобой делить, а?									
+1	რა	რა	PRON	_	PronType=Intr|Number=Sing|Case=Nom	2	obj	_	Translit=ra
+2	გვაქვს	აქვს	VERB	_	Transitivity=Intr|VerbForm=Fin|TAMSeries=Pres|Subj=1Plur	0	root	_	Translit=gvakvs 
+3	მე	მე	PRON	_	PronType=Pers|Person=First|Number=Sing|Case=Dat	2	nsubj	_	Translit=me 
+4	და	და	CCONJ	_	_	5	cc	_	Translit=da
+5	შენ	შენ	PRON	_	PronType=Pers|Person=Second|Number=Sing|Case=Ins	2	obl	_	Translit=šen 
+6	გასაყოფი	გასაყოფი	ADJ	_	Number=Sing|Case=Ins	5	amod	_	Translit=gasaq’opi
+7	?	?	PUNCT	_	_	2	punct	_	_
+#sent_id: 54									
+#text: შევრიგდით, ხომ?									
+#transliteration: ševrigdit, xom?									
+#ru_text: Ну как, помирились?									
+1	შევრიგდით	რიგდება	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=1Plur	0	root	_	Translit=ševrigdit
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	ხომ	ხომ	PART	_	_	1	parataxis	_	Translit=xom
+4	?	?	PUNCT	_	_	1	punct	_	_
+#sent_id: 55									
+#text: თავი დავუქნიე.									
+#transliteration: tavi davuknie.									
+#ru_text: Я кивнул.									
+1	თავი	თავი	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	2	nsubj	_	Translit=tavi
+2	დავუქნიე	უქნევს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=1Sing|Obj=3|ObjRole=Ben	0	root	_	Translit=davuknie
+3	.	.	PUNCT	_	_	2	punct	_	_
+#sent_id: 56									
+#text: — შრომადღეს, როგორც კაცებს, ისე დავუწერ, — უთხრა ახლა მამიდას.									
+#transliteration: — šromadɣes, rogorс k’aсebs, ise davuс’er, — utxra axla mamidas.									
+#ru_text: - А трудодень ему я выпишу полный, как всем, - сказал Датико тете.									
+1	—	—	PUNCT	_	_	3	punct	_	_
+2-3	შრომადღეს	_	_	_	_	_	_	_	_
+2	შრომით	შრომითი	ADJ	_	Number=Sing|Case=Dat	3	amod		Translit= šromit
+3	დღეს	დღე	DAT	_	Animacy=Inan|Number=Sing|Case=Dat	9	obj		Translit=dɣes
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	როგორც	როგორც	ADV	_	AdvType=Rel	6	mark	_	Translit=rogorc
+6	კაცებს	კაცი	NOUN	_	Animacy=Anim|Number=Plur|Case=Dat	9	advcl	_	Translit=k’aсebs
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	ისე	ისე	ADV	_	AdvType=Mod	9	advmod	_	Translit=ise 
+9	დავუწერ	წერს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Fut|Subj=1Sing|Obj=3|ObjRole=Ben	0	root	_	Translit=davuс’er
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	—	—	PUNCT	_	_	12	punct	_	_
+12	უთხრა	ეუბნება	VERB	_	Voice=Act|Transitivity=Trans|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing|Obj=3|ObjRole=Rec	9	parataxis	_	Translit=utxra
+13	ახლა	ახლა	ADV	_	AdvType=Temp	12	advmod	_	Translit=axla
+14	მამიდას	მამიდა	NOUN	_	Animacy=Anim|Number=Sing|Case=Dat	12	nsubj	_	Translit=mamidas
+15	.	.	PUNCT	_	_	9	punct	_	_
+#sent_id: 57									
+#text: მამიდამ თავი დაუქნია და ბრიგადირი წავიდა.									
+#transliteration: mamidam tavi dauknia da brigadiri с’avida.									
+#ru_text: - Как знаешь. Бригадир ушел.									
+1	მამიდამ	მამიდა	NOUN	_	Animacy=Anim|Number=Sing|Case=Erg	3	nsubj	_	Translit=mamidam 
+2	თავი	თავი	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	3	obj	_	Translit=tavi 
+3	დაუქნია	უქნის	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|TAMSeries=Res1|Subj=3Sing	0	root	_	Translit=dauknia 
+4	და	და	CCONJ	_	_	6	сс	_	Translit=da 
+5	ბრიგადირი	ბრიგადირი	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	6	nsubj	_	Translit=brigadiri 
+6	წავიდა	მოდის	VERB	_	Transitivity=Intr|TAMSeries=Aor|Subj=2Sing	3	conj	_	Translit=с’avida
+7	.	.	PUNCT	_	_	3	punct	_	_
+#sent_id: 58									
+#text: ეზოში გავედი, ზღმარტლზე აყუდებული ახალმოპირული თოხი ღარზე ჩავიტანე და ყუით წყალში ჩავდე.									
+#transliteration: ezoši gavedi, zɣmart’lze aq’udebuli axalmop’iruli toxi ɣarze čavit’ane da q’uit с’q’alši čavde.									
+#ru_text: Я вышел на двор, взял прислоненную к мушмуле мотыгу, отнес ее к ручейку и опустил обухом в воду.									
+1-2	ეზოში	_		_	_	_	_	_	_
+1	ეზოს	ეზო	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	3	obl	_	Translit=ezos
+2	ში	ში	ADP	_	_	1	case	_	Translit=ši 
+3	გავედი	გადის	VERB	_	Transitivity=Intr|TAMSeries=Aor|Subj=1Sing	0	root	_	Translit=gavedi
+4	,	,	PUNCT	_	_	12	punct	_	_
+5-6	ზღმარტლზე	_	_	_	_	_	_	_	_
+5	ზღმარტლს	ზღმარტლი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	12	obl	_	Translit=zɣmart’ls
+6	ზე	ზე	ADP	_	_	5	case	_	Translit=ze
+7	აყუდებული	აყუდებული	ADJ	_	Number=Sing|Case=Nom	9	amod	_	Translit=aq’udebuli 
+8	ახალმოპირული	ახალმოპირული	ADJ	_	Number=Sing|Case=Nom	9	amod	_	Translit=axalmop’iruli 
+9	თოხი	თოხი	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	12	obj	_	Translit=toxi
+10-11	ღარზე	_	_	_	_	_	_	_	_
+10	ღარს	ღარი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	12	obl	_	Translit=ɣars
+11	ზე	ზე	ADP	_	_	10	case	_	Translit=ze
+12	ჩავიტანე	ჩააქვს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Part|TAMSeries=Pres|Number=Sing|Case=Gen	3	conj	_	Translit=čavit’ane 
+13	და	და	CCONJ	_	_	17	сс	_	Translit=da
+14	ყუით	ყუა	NOUN	_	Animacy=Inan|Number=Sing|Case=Ins	17	obl	_	Translit=q’uit 
+15-16	წყალში	_		_	_	_	_	_	_
+15	წყალს	წყალი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	17	obl	_	Translit=с’q’als
+16	ში	ში	ADP	_	_	15	case	_	Translit=ši 
+17	ჩავდე	დებს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=1Sing	3	conj	_	Translit=čavde
+18	.	.	PUNCT	_	_	3	punct	_	_
+#sent_id: 59									
+#text: მამიდამ ლამპა გარეთ გამოიტანა, კარი მიიხურა, ურდულში ჯოხი გაუყარა და დასაწოლად ოდაში ავედით.									
+#transliteration: mamidam lamp’a garet gamoit’ana, k’ari miixura, urdulši ǯoxi gauq’ara da dasaс’olad odaši avedit.									
+#ru_text: Тетя вынесла из кухни лампу, прикрыла дверь, продела в петлю запора палочку, и мы поднялись ночевать в оду.									
+1	მამიდამ	მამიდა	NOUN	_	Animacy=Anim|Number=Sing|Case=Erg	4	nsubj	_	Translit=mamidam
+2	ლამპა	ლამპა	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	4	obj	_	Translit=lamp’a 
+3	გარეთ	გარეთ	ADV	_	AdvType=Loc	4	advmod	_	Translit=garet
+4	გამოიტანა	გამოაქვს	VERB	_	Aspect=Pfv|Transitivity=Inv|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing	0	root	_	Translit=gamoit’ana
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	კარი	კარი	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	7	obj	_	Translit=k’ari 
+7	მიიხურა	იხურავს	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing|ObjRole=Ben	4	conj	_	Translit=miixura
+8	,	,	PUNCT	_	_	12	punct	_	_
+9-10	ურდულში	_	_	_	_	_	_	_	_
+9	ურდულს	ურდული	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	12	obl	_	Translit=urduls
+10	ში	ში	ADP	_	_	9	case	_	Translit=ši 
+11	ჯოხი	ჯოხი	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	12	obj	_	Translit=ǯoxi 
+12	გაუყარა	უყრის	VERB	_	Aspect= Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing|Obj=3|ObjRole=Ben	4	conj	_	Translit=gauq’ara 
+13	და	და	CCONJ	_	_	17	cc	_	Translit=da
+14	დასაწოლად	დასაწოლი	ADV	_	_	17	advmod	_	Translit=dasaс’olad 
+15-16	ოდაში	_	_	_	_	_	_	_	_
+15	ოდას	ოდა	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	17	obl	_	Translit=odas
+16	ში	ში	ADP	_	_	15	case	_	Translit=ši 
+17	ავედით	ადის	VERB	_	Transitivity=Intr|VerbForm=Fin|TAMSeries=Aor|Subj=1Plur	4	conj	_	Translit=avedit
+18	.	.	PUNCT	_	_	4	punct	_	_
+#sent_id: 60									
+#text: მამიდაჩემი ქართულის მასწავლებელია.									
+#transliteration: mamidačemi kartulis masс’avlebelia.									
+#ru_text: Моя тетя - преподавательница грузинского языка.									
+1-2	მამიდაჩემი	_	_	_	_	_	_	_	_
+1	მამიდა	მამიდა	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	2	det	_	Translit=mamida
+2	ჩემი	ჩემი	PRON	_	PronType=Poss|Person=First|Number=Sing|Case=Nom	4	nsubj	_	Translit=čemi
+3	ქართულის	ქართული	ADJ	_	Number=Sing|Case=Gen	4	obl	_	Translit=kartulis 
+4	მასწავლებელია	მასწავლებელი	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	0	root	_	Translit=masс’avlebelia
+5	.	.	PUNCT	_	_	4	punct	_	_
+#sent_id: 61									
+#text: იგი ყველაზე განათლებული და ლამაზი ქალია ჩვენს სოფელში.									
+#transliteration: igi q’velaze ganatlebuli da lamazi kalia čvens sopelši.									
+#ru_text: Она самая образованная и красивая женщина в нашем селе.									
+1	იგი	იგი	PRON	_	PronType=Pers|Person=3|Number=Sing|Case=Nom	7	nsubj	_	Translit=igi
+2-3	ყველაზე	_	_	_	_	_	_	_	_
+2	ყველას	ყველა	PRON	_	PronType=Det|Number=Sing|Case=Dat	7	obl	_	Translit=q’velas
+3	ზე	ზე	ADP	_	_	2	case	_	Translit=ze
+4	განათლებული	განათლებული	ADJ	_	Number=Sing|Case=Nom	7	amod	_	Translit=ganatlebuli
+5	და	და	CCONJ	_	_	6	cc	_	Translit=da
+6	ლამაზი	ლამაზი	ADJ	_	Number=Sing|Case=Nom	7	amod	_	Translit=lamazi
+7	ქალია	ქალი	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	0	root	_	Translit=kalia
+8	ჩვენს	ჩვენი	PRON	_	PronType=Poss|Person=1|Number=Plur|Case=Dat	9	det	_	Translit=čvens 
+9	სოფელში	_	_	_	_	_	_	_	_
+10	სოფელს	სოფელი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	7	obl	_	Translit=sopels
+11	ში	ში	ADP	_	_	9	case	_	Translit=ši
+12	.	.	PUNCT	_	_	7	punct	_	_
+#sent_id: 62									
+#text: მამიდა, ბაბუაჩემის სკივრში რომ ხატი დევს, იმაზე გამოსახულ ღვთისმშობელს ჰგავს მარიამს, და ქეთევანი ჰქვია.									
+#transliteration: mamida, babuačemis sk’ivrši rom xat’i devs, imaze gamosaxul ɣvtismšobels hgavs mariams, da ketevani hkvia.									
+#ru_text: Зовут ее Кетеван, Кето, и она как две капли воды похожа на матерь божью Марию, изображенную на нашей иконе (икона эта давно уже хранится в нашем старом сундуке).									
+1	მამიდა	მამიდა	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	8	nsubj	_	Translit=mamida
+2	,	,	PUNCT	_	_	9	punct	_	_
+3-4	ბაბუაჩემის	_	_	_	_	_	_	_	_
+3	ბაბუას	ბაბუა	NOUN	_	Animacy=Anim|Number=Sing|Case=Gen	5	nmod	_	Translit=babuas
+4	ჩემის	ჩემი	PRON	_	PronType=Poss|Person=First|Number=Sing|Case=Gen	3	det	_	Translit=čemis
+5-6	სკივრში	_	_	_	_	_	_	_	_
+5	სკივრს	სკივრი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	9	obl	_	Translit=sk’ivrs
+6	ში	ში	ADP	_	_	5	case	_	Translit=ši
+7	რომ	რომ	PRON	_	Number=Sing|Case=Nom	8	det	_	Translit=rom 
+8	ხატი	ხატი	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	9	nsubj	_	Translit=xat’i 
+9	დევს	დევს	VERB	_	Aspect=Ipfv|Voice=AutoAct|Transitivity=Intr|VerbForm=Fin|TAMSeries=Pres|Subj=3Sing	0	root	_	Translit=devs
+10	,	,	PUNCT	_	_	15	punct	_	_
+11-12	იმაზე	_	_	_	_	_	_	_	_
+11	იმას	ის	PRON	_	PronType=Dem|Number=Sing|Case=Dat	15	obl	_	Translit=imas
+12	ზე	ზე	ADP	_	_	11	case	_	Translit=ze
+13	გამოსახულ	გამოსახული	ADJ	_	Number=Sing|Case=Dat	14	amod	_	Translit=gamosaxul 
+14	ღვთისმშობელს	ღვთისმშობელი	NOUN	_	Animacy=Anim|Number=Sing|Case=Dat	13	obj	_	Translit=ɣvtismšobels 
+15	ჰგავს	ჰგავს	VERB	_	VerbForm=Fin|TAMSeries=Pres|Subj=3Sing	9	conj	_	Translit=hgavs 
+16	მარიამს	მარიამ	PROPN	_	Animacy=Anim|Number=Sing|Case=Dat	14	appos	_	Translit=mariams
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	და	და	CCONJ	_	_	20	cc	_	Translit=da
+19	ქეთევანი	ქეთევანი	PROPN	_	Animacy=Anim|Number=Sing|Case=Nom	20	nsubj	_	Translit=ketevani
+20	ჰქვია	ჰქვია	VERB	_	Aspect=Ipfv|Voice=Inact|Transitivity=IndTrans|VerbForm=Fin|TAMSeries=Pres|Subj=3Sing	9	conj	_	Translit=hkvia
+21	.	.	PUNCT	_	_	9	punct	_	_
+#sent_id: 63									
+#text: ალბათ, ამიტომ ვერ გაუბედა ვერავინ, სიყვარული ეთქვა, და არის მამიდა გაუთხოვარი.									
+#transliteration: albat, amit’om ver gaubeda veravin, siq’varuli etkva, da aris mamida gautxovari.									
+#ru_text: И поэтому, наверно, никто до сих пор не осмелился признаться тете в любви. Так и ходит она в незамужних девках.									
+1	ალბათ	ალბათ	ADV	_	AdvType=Int	5	advmod	_	Translit=albat
+2	,	,	PUNCT	_	_	5	punct	_	_
+3	ამიტომ	ამიტომ	ADV	_	AdvType=Caus	5	advmod	_	Translit=amit’om 
+4	ვერ	ვერ	PART	_	_	5	parataxis	_	Translit=ver
+5	გაუბედა	აბედებს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=3Sing|Obj=3|ObjRole=Ben	0	root	_	Translit=gaudeba
+6	ვერავინ	ვერავინ	PRON	_	PronType=Neg|Case=Erg	5	nsubj	_	Translit=veravin
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	სიყვარული	სიყვარული	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	9	obj	_	Translit=siq’varuli
+9	ეთქვა	უთქვამს	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Res2|Subj=3Sing	5	conj	_	Translit=etkva
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	და	და	CCONJ	_	_	12	cc	_	Translit=da
+12	არის	არის	VERB	_	Transitivity=Intr|VerbForm=Aux|TAMSeries=Pres|Subj=3Sing	5	conj	_	Translit=aris
+13	მამიდა	მამიდა	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	12	nsubj	_	Translit=mamida
+14	გაუთხოვარი	გაუთხოვარი	ADJ	_	Number=Sing|Case=Nom	13	amod	_	Translit=gautxovari
+15	.	.	PUNCT	_	_	5	punct	_	_
+#sent_id: 64									
+#text: მე ძალიან მიყვარს მამიდა და სულ მეშინია, არ გათხოვდეს.									
+#transliteration: me ʒalian miq’vars mamida da sul mešinia, ar gatxovdes.									
+#ru_text: Я очень люблю свою тетю и боюсь, чтобы она не вышла замуж.									
+1	მე	მე	PRON	_	PronType=Pers|Person=First|Number=Sing|Case=Dat	3	nsubj	_	Translit=me
+2	ძალიან	ძალიან	ADV	_	AdvType=Mod	3	advmod	_	Translit=ʒalian 
+3	მიყვარს	უყვარს	VERB	_	Aspect=Ipfv|Voice=Inact|Transitivity=IndTrans|VerbForm=Fin|TAMSeries=Pres|Subj=1Sing	0	root	_	Translit=miq’vars 
+4	მამიდა	მამიდა	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	3	obj	_	Translit=mamida
+5	და	და	CCONJ	_	_	7	cc	_	Translit=da
+6	სულ	სულ	ADV	_	AdvType=Mod	7	advmod	_	Translit=sul
+7	მეშინია	ეშინის	VERB	_	Aspect=Ipfv|Voice=Inact|Transitivity=IndTrans|VerbForm=Fin|TAMSeries=Pres|Subj=1Sing	3	conj	_	Translit=mešinia
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	არ	არ	PART	_	_	10	advmod	_	Translit=ar
+10	გათხოვდეს	თხოვს	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=PresSbj|Subj=3Sing|Obj=2Sing|ObjRole=Loc	7	ccomp	_	Translit=gatxovdes
+11	.	.	PUNCT	_	_	3	punct	_	_
+#sent_id: 65									
+#text: მამიდა გრძნობს ამას და, ალბათ, ამიტომ არ თხოვდება, თუ არა და, რა უშლის, აბა, ხელს?!									
+#transliteration: mamida grʒnobs amas da, albat, amit’om ar txovdeba, tu ara da, ra ušlis, aba, xels?!									
+#ru_text: Тетя, видимо, догадывается об этом и потому не спешит с замужеством. Иначе за чем же дело стало?									
+1	მამიდა	მამიდა	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	2	nsubj	_	Translit=mamida
+2	გრძნობს	გრძნობს	VERB	_	Aspect=Ipfv|Voice=AutoAct|Transitivity=Intr|VerbType=RelStat|VerbForm=Fin|TAMSeries=Pres|Subj=3Sing	0	root	_	Translit=grʒnobs 
+3	ამას	ეს	PRON	_	PronType=Dem|Number=Sing|Case=Dat	2	obl	_	Translit=amas
+4	და	და	CCONJ	_	_	6	cc	_	Translit=da
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	ალბათ	ალბათ	ADV	_	AdvType=Int	2	advmod	_	Translit=albat
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	ამიტომ	ამიტომ	ADV	_	AdvType=Caus	2	advmod	_	Translit=amit’om 
+9	არ	არ	PART	_	_	10	advmod	_	Translit=ar
+10	თხოვდება	თხოვდება	VERB	_	Aspect=Ipfv|Voice=AutoAct|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Pres|Subj=3Sing	2	conj	_	Translit=txovdeba
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	თუ	თუ	CCONJ	_	_	17	mark	_	Translit=tu
+13	არა	არა	PART	_	_	17	advmod	_	Translit=ara
+14	და	და	CCONJ	_	_	17	cc	_	Translit=da
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	რა	რა	PRON	_	Number=Sing|Case=Dat	17	nsubj	_	Translit=ra
+17	უშლის	უშლის	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Pres|Subj=3Sing|Obj=3|ObjRole=Ben	2	conj	_	Translit=ušlis
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	აბა	აბა	PART	_	_	17	parataxis	_	Translit=aba
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	ხელს	ხელი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	17	nmod	_	Translit=xels
+22	?	?	PUNCT	_	_	2	punct	_	_
+23	!	!	PUNCT	_	_	2	punct	_	_
+#sent_id: 66									
+#text: ვწევარ ჩემს საწოლზე გულაღმა, თვალგახელილი და მამიდას ჩურჩულით ვეკითხები: — მამიდა!									
+#transliteration: vс’evar čems saс’olze gulaɣma, tvalgaxelili da mamidas čurčulit vek’itxebi: — mamida!									
+#ru_text: Я лежу навзничь в своей кровати, и сна ни в одном глазу. - Тетя, - зову я шепотом.									
+1	ვწევარ	წევს	VERB	_	Aspect=Ipfv|Voice=AutoAct|Transitivity=Intr|VerbForm=Fin|TAMSeries=Pres|Subj=1Sing	0	root	_	Translit=vс’evar 
+2	ჩემს	ჩემი	PRON	_	PronType=Poss|Person=1|Number=Sing|Case=Dat	3	det	_	Translit=čems 
+3-4	საწოლზე	_		_	_	_	_	_	_
+3	საწოლს	საწოლი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	1	obl	_	Translit=saс’olze 
+4	ზე	ზე	APD	_	_	3	case	_	Translit=gulaɣma
+5	გულაღმა	გულაღმა	ADV	_	_	1	advmod	_	Translit=tvalgaxelili 
+6	,	,	PUNCT	_	_	11	punct	_	_
+7	თვალგახელილი	თვალგახელილი	ADJ	_	Number=Sing|Case=Nom	11	amod	_	Translit=tvalgaxelili 
+8	და	და	CCONJ	_	_	11	cc	_	Translit=da
+9	მამიდას	მამიდა	NOUN	_	Animacy=Anim|Number=Sing|Case=Dat	11	obj	_	Translit=mamidas
+10	ჩურჩულით	ჩურჩული	NOUN	_	Animacy=Inan|Number=Sing|Case=Ins	11	obl	_	Translit=čurčulit 
+11	ვეკითხები	ეკითხება	VERB	_	Aspect=Ipfv|Voice=AutoAct|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Fut|Subj=1Sing|Obj=3|ObjRole=Rec	1	conj	_	Translit=vek’itxebi
+12	:	:	PUNCT	_	_	11	punct	_	_
+13	—	—	PUNCT	_	_	14	punct	_	_
+14	მამიდა	მამიდა	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	18	parataxis	_	Translit=mamida
+15	!	!	PUNCT	_	_	1	punct	_	_
+#sent_id: 67									
+#text:  — რა გინდა, ბიჭო?									
+#transliteration: — ra ginda, bič’o?									
+#ru_text: - Ну?									
+1	—	—	PUNCT	_	_	3	punct	_	_
+2	რა	რა	PRON	_	PronType=Intr|Number=Sing|Case=Nom	3	obj	_	Translit=ra
+3	გინდა	უნდა	VERB	_	Transitivity=Trans|VerbForm=Fin|TAMSeries=Pres|Subj=2Sing	0	root	_	Translit=ginda
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	ბიჭო	ბიჭი	NOUN	_	Animacy=Anim|Number=Sing|Case=Voc	3	parataxis	_	Translit=bič’o
+6	?	?	PUNCT	_	_	3	punct	_	_
+#sent_id: 68									
+#text: — გძინავს, მამიდა?...									
+#transliteration: — gʒinavs, mamida?...									
+#ru_text: - Спишь?									
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	გძინავს	ძინავს	VERB	_	Aspect=Ipfv|Voice=Inact|Transitivity=IndTrans|VerbForm=Fin|TAMSeries=Pres|Subj=2Plur	0	root	_	Translit=gʒinavs
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	მამიდა	მამიდა	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	2	parataxis	_	Translit=mamida
+5	?	?	PUNCT	_	_	2	punct	_	_
+6	...	...	PUNCT	_	_	2	punct	_	_
+#sent_id: 69									
+#text: — თქვი, რა გინდა.									
+#transliteration: — tkvi, ra ginda.									
+#ru_text: - Чего тебе?									
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	თქვი	თქვამს	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=AorImp|Subj=2Sing	5	parataxis	_	Translit=tkvi
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	რა	რა	PRON	_	PronType=Intr|Number=Sing|Case=Nom	2	obl	_	Translit=ra
+5	გინდა	უნდა	VERB	_	Transitivity=Trans|VerbForm=Fin|TAMSeries=Pres|Subj=2Sing	0	root	_	Translit=ginda
+6	.	.	PUNCT	_	_	5	punct	_	_
+#sent_id: 70									
+#text: — რა უნდა დათიკო ბრიგადირს, ყოველ საღამოს რომ დაიარება?									
+#transliteration: — ra unda datik’o brigadirs, q’ovel saɣamos rom daiareba?									
+#ru_text: - Отчего это Датико-бригадир заладил каждый день ходить к нам?									
+1	—	—	PUNCT	_	_	3	punct	_	_
+2	რა	რა	PRON	_	PronType=Intr|Number=Sing|Case=Nom	3	obj	_	Translit=ra
+3	უნდა	უნდა	VERB	_	Transitivity=Trans|VerbForm=Fin|TAMSeries=Pres|Subj=3Sing	0	root	_	Translit=unda
+4	დათიკო	დათიკო	PROPN	_	Animacy=Anim|Number=Sing|Case=Nom	5	appos	_	Translit=datik’o 
+5	ბრიგადირს	ბრიგადირი	NOUN	_	Animacy=Anim|Number=Sing|Case=Dat	3	nsubj	_	Translit=brigardirs
+6	,	,	PUNCT	_	_	10	punct	_	_
+7	ყოველ	ყოველი	PRON	_	PronType=Det|Number=Sing|Case=Dat	8	det	_	Translit=q’ovel 
+8	საღამოს	საღამო	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	10	obl	_	Translit=saɣamos 
+9	რომ	რომ	SCONJ	_	_	10	mark	_	Translit=rom 
+10	დაიარება	დაიარება	VERB	_	VerbForm=Fin|TAMSeries=Pres|Subj=3Sing	3	conj	_	Translit=daiareba
+11	?	?	PUNCT	_	_	3	punct	_	_
+#sent_id: 71									
+#text: — არ ვიცი, ბიჭო!									
+#transliteration: — ar viсi, bič’o!									
+#ru_text: - А я почем знаю!									
+1	—	—	PUNCT	_	_	3	punct	_	_
+2	არ	არ	PART	_	_	3	parataxis	_	Translit=ar
+3	ვიცი	იცის	VERB	_	Voice=Act|VerbForm=Fin|TAMSeries=Pres|Subj=1Sing	0	root	_	Translit=viсi
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	ბიჭო	ბიჭი	NOUN	_	Animacy=Anim|Number=Sing|Case=Voc	3	parataxis	_	Translit=bič’o
+6	!	!	PUNCT	_	_	3	punct	_	_
+#sent_id: 72									
+#text: — ნუ მოდის მაგი ჩვენთან!									
+#transliteration: — nu modis magi čventan!									
+#ru_text: - Пусть не ходит!									
+1	—	—	PUNCT	_	_	3	punct	_	_
+2	ნუ	ნუ	PART	_	_	3	advmod	_	Translit=nu
+3	მოდის	მოდის	VERB	_	Transitivity=Intr|VerbForm=Fin|TAMSeries=Pres|Subj=3Sing	0	root	_	Translit=modis
+4	მაგი	ეგე	PRON	_	PronType=Dem|Person=3|Number=Sing|Case=Ins	3	obl	_	Translit=magi
+5-6	ჩვენთან	ჩვენთან	_	_	_	_	_	_	_
+5	ჩვენ	ჩვენ	PRON	_	PronType=Pers|Person=First|Number=Plur|Case=Dat	3	obl		Translit=čven
+6	თან	თან	ADP	_	_	5	case		Translit=tan
+7	!	!	PUNCT	_	_	3	punct	_	_
+#sent_id: 73									
+#text: — ხომ არ გავაგდებ, ბიჭო?									
+#transliteration: — xom ar gavagdeb, bič’o?									
+#ru_text: - Гнать человека из дому, что ли?									
+1	—	—	PUNCT	_	_	4	punct	_	_
+2	ხომ	ხომ	PART	_	_	4	parataxis	_	Translit=xom
+3	არ	არ	PART	_	_	4	advmod	_	Translit=ar
+4	გავაგდებ	აგდებს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Fut|Subj=1Sing|Obj=3|ObjRole=Loc	0	root	_	Translit=gavagdeb
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	ბიჭო	ბიჭი	NOUN	_	Animacy=Anim|Number=Sing|Case=Voc	4	parataxis	_	Translit=bič’o
+7	?	?	PUNCT	_	_	4	punct	_	_
+#sent_id: 74									
+#text: — არ ვიცი მე, ნუ მოდის...									
+#transliteration: — ar viсi me, nu modis...									
+#ru_text: - Не знаю... Пусть не ходит...									
+1	—	—	PUNCT	_	_	3	punct	_	_
+2	არ	არ	PART	_	_	3	advmod	_	Translit=ar
+3	ვიცი	იცის	VERB	_	Voice=Act|VerbForm=Fin|TAMSeries=Pres|Subj=1Sing	0	root	_	Translit=vici
+4	მე	მე	PRON	_	PronType=Pers|Person=First|Number=Sing|Case=Nom	3	nsubj	_	Translit=me
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	ნუ	ნუ	PART	_	_	7	advmod	_	Translit=nu
+7	მოდის	მოდის	VERB	_	Transitivity=Intr|VerbForm=Fin|TAMSeries=Pres|Subj=3Sing	3	parataxis	_	Translit=modis
+8	...	...	PUNCT	_	_	3	punct	_	_
+#sent_id: 75									
+#text: მოვა, დაჯდება, წყალი მომიტანე, ძაღლს გახედე, გადი გარეთ, იმას მიხედე, ამას მიხედე, კი ვიცი მე, მაგას რა უნდა!									
+#transliteration: mova, daǯdeba, с’q’ali momit’ane, ʒaɣls gaxede, gadi garet, imas mixede, amas mixede, k’i viсi me, magas ra unda!									
+#ru_text: Сидит командует: воду ему принеси, узнай, почему собака лает, пойди туда, пойди сюда... Знаю я, что ему нужно!									
+1	მოვა	მოდის	VERB	_	Transitivity=Intr|VerbForm=Fin|TAMSeries=Fut|Subj=3Sing	0	root	_	Translit=mova
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	დაჯდება	ზის	VERB	_	Transitivity=Intr|Voice=AutoAct|VerbForm=Fin|TAMSeries=Fut|Subj=3Sing	1	conj	_	Translit=daǯdeba
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	წყალი	წყალი	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	6	obj	_	Translit=с’q’ali 
+6	მომიტანე	იტანს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=AorImp|Subj=2Sing|Obj=1|ObjRole=Ben	3	parataxis	_	Translit=momit’ane
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	ძაღლს	ძაღლი	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	9	obj	_	Translit=ʒaɣls 
+9	გახედე	უყურებს	VERB	_	Voice=Act|Transitivity=Trans|VerbForm=Fin|TAMSeries=AorImp|Subj=2Sing	6	conj	_	Translit=gaxede
+10	,	,	PUNCT	_	_	11	punct	_	_
+11	გადი	გადის	VERB	_	Transitivity=Intr|VerbForm=Fin|TAMSeries=AorImp|Subj=2Sing	6	conj	_	Translit=gadi
+12	გარეთ	გარეთ	ADV	_	AdvType=Loc	11	advmod	_	Translit=garet
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	იმას	ის	PRON	_	PronType=Dem|Number=Sing|Case=Dat	15	obj	_	Translit=imas
+15	მიხედე	უყურებს	VERB	_	Voice=Act|Transitivity=Trans|VerbForm=Fin|TAMSeries=AorImp|Subj=2Sing	6	conj	_	Translit=mixede
+16	,	,	PUNCT	_	_	18	punct	_	_
+17	ამას	ის	PRON	_	PronType=Dem|Number=Sing|Case=Dat	18	obj	_	Translit=amas
+18	მიხედე	უყურებს	VERB	_	Voice=Act|Transitivity=Trans|VerbForm=Fin|TAMSeries=AorImp|Subj=2Sing	6	conj	_	Translit=mixede
+19	,	,	PUNCT	_	_	21	punct	_	_
+20	კი	კი	PART	_	_	21	сс	_	Translit=k’i 
+21	ვიცი	იცის	VERB	_	Voice=Act|VerbForm=Fin|TAMSeries=Pres|Subj=1Sing	1	conj	_	Translit=vici
+22	მე	მე	PRON	_	PronType=Pers|Person=1|Number=Sing|Case=Erg	21	nsubj	_	Translit=me
+23	,	,	PUNCT	_	_	26	punct	_	_
+24	მაგას	ეგ	PRON	_	PronType=Pers|Person=3|Number=Sing|Case=Dat	26	nsubj	_	Translit=magas
+25	რა	რა	PRON	_	PronType=Intr|Number=Sing|Case=Nom	26	obj	_	Translit=ra
+26	უნდა	უნდა	VERB	_	Transitivity=Trans|VerbForm=Fin|TAMSeries=Pres|Subj=3Sing	21	ccomp	_	Translit=unda
+27	!	!	PUNCT	_	_	1	punct	_	_
+#sent_id: 76									
+#text: მამიდა არაფერს ამბობს.									
+#transliteration: mamida arapers ambobs.									
+#ru_text: Тетя молчит.									
+1	მამიდა	მამიდა	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	3	nsubj	_	Translit=mamida
+2	არაფერს	არაფერი	PRON	_	PronType=Neg|Number=Sing|Case=Dat	3	obj	_	Translit=arapers
+3	ამბობს	ამბობს	VERB	_	Voice=Act|Transitivity=Trans|VerbForm=Fin|TAMSeries=Pres|Subj=3Sing	0	root	_	Translit=ambobs
+4	.	.	PUNCT	_	_	3	punct	_	_
+#sent_id: 77									
+#text: — მამიდა, რამდენი წლის ხარ ახლა შენ? — ვეკითხები დუმილის შემდეგ.									
+#transliteration: — mamida, ramdeni с’lis xar axla šen? — vek’itxebi dumilis šemdeg.									
+#ru_text: - Тетя, сколько тебе лет?									
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	მამიდა	მამიდა	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	6	parataxis	_	Translit=mamida
+3	,	,	PUNCT	_	_	6	punct	_	_
+4	რამდენი	რამდენი	PRON	_	PronType=Rel|Number=Sing	6	advmod	_	Translit=ramdeni
+5	წლის	წელი	NOUN	_	Animacy=Inan|Number=Sing|Case=Gen	6	obl	_	Translit=с’lis 
+6	ხარ	ხრავს	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=AorImp|Subj=2Sing	0	root	_	Translit=xar
+7	ახლა	ახლა	ADV	_	AdvType=Temp	6	advmod	_	Translit=axla
+8	შენ	შენ	PRON	_	PronType=Pers|Person=2|Number=Sing|Case=Dat	6	iobj	_	Translit=šen
+9	?	?	PUNCT	_	_	6	punct	_	_
+10	—	—	PUNCT	_	_	11	punct	_	_
+11	ვეკითხები	ეკითხება	VERB	_	Aspect=Ipfv|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Fut|Subj=1Sing|Obj=3|ObjRole=Rec	6	parataxis	_	Translit=vek’itxebi 
+12	დუმილის	დუმილი	NOUN	_	Animacy=Inan|Number=Sing|Case=Gen	11	obl	_	Translit=dumilis
+13	შემდეგ	შემდეგ	ADV	_	AdvType=Temp	11	advmod	_	Translit=šemdeg
+14	.	.	PUNCT	_	_	6	punct	_	_
+#sent_id: 78									
+#text: — დაიძინე, ბიჭო!									
+#transliteration: — daiʒine, bič’o!									
+#ru_text: - Да спи ты, чертенок!									
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	დაიძინე	აძინებს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=2Sing|ObjRole=Ben	0	root	_	Translit=daiʒine
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	ბიჭო	ბიჭი	NOUN	_	Animacy=Anim|Number=Sing|Case=Voc	2	parataxis	_	Translit=bič’o
+5	!	!	PUNCT	_	_	2	punct	_	_
+#sent_id: 79									
+#text: — მითხარი.									
+#transliteration: — mitxari.									
+#ru_text: - Скажи!									
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	მითხარი	თხრობს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=AorImp|Subj=2Sing	0	root	_	Translit=mitxari
+3	.	.	PUNCT	_	_	2	punct	_	_
+#sent_id: 80									
+#text: — ოცდათხუთმეტის.									
+#transliteration: — oсdatxutmet’is.									
+#ru_text: - Ну тридцать пять.									
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	ოცდათხუთმეტის	ოცდათხუთმეტი	NUM	_	NumType=Card|Number=Sing|Case=Gen	0	root	_	Translit=oсdatxutmet’is.
+3	.	.	PUNCT	_	_	2	punct	_	_
+#sent_id: 81									
+#text: — რატომ არ თხოვდები მერე?									
+#transliteration: — rat’om ar txovdebi mere?									
+#ru_text: - А почему ты не выходишь замуж?									
+1	—	—	PUNCT	_	_	4	punct	_	_
+2	რატომ	რატომ	ADV	_	AdvType=Caus	4	advmod	_	Translit=rat’om 
+3	არ	არ	PART	_	_	4	advmod	_	Translit=ar
+4	თხოვდები	თხოვდება	VERB	_	Aspect=Ipfv|Voice=AutoAct|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Pres|Subj=2Sing	0	root	_	Translit=txovdebi 
+5	მერე	მერე	ADV	_	AdvType=Temp	4	advmod	_	Translit=mere
+6	?	?	PUNCT	_	_	4	punct	_	_
+#sent_id: 82									
+#text: მამიდა დუმს, მესმის მისი მშვიდი სუნთქვა და ველოდები, როდის გამცემს პასუხს.									
+#transliteration: mamida dums, mesmis misi mšvidi suntkva da velodebi, rodis gamсems p’asuxs.									
+#ru_text: Тетя не отвечает. Я слышу ее ровное дыхание и жду.									
+1	მამიდა	მამიდა	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	2	nsubj	_	Translit=mamida 
+2	დუმს	დუმს	VERB	_	Aspect=Ipfv|Voice=AutoAct|Transitivity=Intr|VerbType=RelStat|VerbForm=Fin|TAMSeries=Pres|Subj=3Sing	0	root	_	Translit=dums
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	მესმის	ესმის	VERB	_	Aspect=Ipfv|Voice=Inact|Transitivity=IndTrans|VerbForm=Fin|TAMSeries=Pres|Subj=1Sing	2	conj	_	Translit=mesmis
+5	მისი	მისი	PRON	_	PronType=Poss|Number=Sing|Case=Nom	7	det	_	Translit=misi
+6	მშვიდი	მშვიდი	ADJ	_	Number=Sing|Case=Nom	7	amod	_	Translit=mšvidi 
+7	სუნთქვა	სუნთქვა	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	4	obj	_	Translit=suntkva
+8	და	და	CCONJ	_	_	9	cc	_	Translit=da
+9	ველოდები	ელოდება	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbVerbForm=Fin|TAMSeries=Pres|Subj=1Sing|Obj=3|ObjRole=Rec	2	conj	_	Translit=velodebi
+10	,	,	PUNCT	_	_	12	punct	_	_
+11	როდის	როდის	SCONJ	_	_	12	mark	_	Translit=rodis
+12	გამცემს	სცემს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbVerbForm=Fin|TAMSeries=Fut|Subj=3Sing|Obj=1Sing	9	ccomp	_	Translit=gamcems
+13	პასუხს	პასუხი	NOUN	_	Number=Sing|Case=Dat	12	obj	_	Translit=p’asuxs
+14	.	.	PUNCT	_	_	2	punct	_	_
+#sent_id: 83									
+#text: იგი ხმას არ მცემს.									
+#transliteration: igi xmas ar mсems.									
+#ru_text: Но проходит минута, другая, а она все молчит.									
+1	იგი	იგი	PRON	_	PronType=Pers|Number=Sing|Case=Nom	4	nsubj	_	Translit=igi
+2	ხმას	ხმა	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	4	obj	_	Translit=xmas
+3	არ	არ	PART	_	_	4	advmod	_	Translit=ar
+4	მცემს	მცემს	VERB	_	VerbForm=Fin|TAMSeries=Pres|Subj=3Sing|Obj=1	0	root	_	Translit=mcems
+5	.	.	PUNCT	_	_	4	punct	_	_
+#sent_id: 84									
+#text: — ა, მამიდა?									
+#transliteration: — a, mamida?									
+#ru_text: - А, тетя?									
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	ა	ა	PART	_	_	4	parataxis	_	Translit=a
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	მამიდა	მამიდა	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	0	root	_	Translit=mamida
+5	?	?	PUNCT	_	_	4	punct	_	_
+#sent_id: 85									
+#text: — დაიძინე, ბიჭო, ხვალ ადრე ხარ ასადგომი!									
+#transliteration: — daiʒine, bič’o, xval adre xar asadgomi!									
+#ru_text: - Спи, Сосойя, завтра тебе на работу!									
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	დაიძინე	დაძინება	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=AorImp|Subj=2Sing|ObjRole=Ben	0	root	_	Translit=daiʒine
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	ბიჭო	ბიჭი	NOUN	_	Animacy=Anim|Number=Sing|Case=Voc	2	parataxis	_	Translit=bič’o
+5	,	,	PUNCT	_	_	8	punct	_	_
+6	ხვალ	ხვალ	ADV	_	AdvType=Temp	8	advmod	_	Translit=xval
+7	ადრე	ადრე	ADV	_	AdvType=Temp	8	advmod	_	Translit=adre
+8	ხარ	ხრავს	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=AorImp|Subj=2Sing	2	conj	_	Translit=xar
+9	ასადგომი	ასადგომი	ADJ	_	Number=Sing|Case=Ins	8	obl	_	Translit=asadgomi
+10	!	!	PUNCT	_	_	2	punct	_	_
+#sent_id: 86									
+#text: — რატომ არ თხოვდები, მამიდა!									
+#transliteration: — rat’om ar txovdebi, mamida!									
+#ru_text: - Почему ты не выходишь замуж?									
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	რატომ	რატომ	ADV	_	AdvType=Caus	4	advmod	_	Translit=rat’om 
+3	არ	არ	PART	_	_	4	advmod	_	Translit=ar
+4	თხოვდები	თხოვდება	VERB	_	Aspect=Ipfv|Voice=AutoAct|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Pres|Subj=2Sing	0	root	_	Translit=txovdebi
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	მამიდა	მამიდა	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	4	parataxis	_	Translit=mamida
+7	!	!	PUNCT	_	_	4	punct	_	_
+#sent_id: 87									
+#text: — არავინ მთხოულობს, ბიჭო, არავის მოსწონს მამიდაშენი!									
+#transliteration: — aravin mtxoulobs, bič’o, aravis mosс’ons mamidašeni!									
+#ru_text: - Вот пристал! Да не берет меня никто! Не нравится твоя тетя никому!									
+1	—	—	PUNCT	_	_	3	punct	_	_
+2	არავინ	არავინ	PRON	_	PronType=Neg|Number=Sing|Case=Erg	3	nsubj	_	Translit=aravin 
+3	მთხოულობს	თხოულობს	VERB	_	Aspect=Ipfv|VerbForm=Fin|Subj=3Sing|Obj=1	0	root	_	Translit=mtxoulobs
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	ბიჭო	ბიჭი	NOUN	_	Animacy=Anim|Number=Sing|Case=Voc	3	parataxis	_	Translit=bič’o
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	არავის	არავინ	PRON	_	PronType=Neg|Number=Sing|Case=Dat	8	nsubj	_	Translit=aravis
+8	მოსწონს	მოსწონს	VERB	_	Aspect=Ipfv|Voice=Inact|Transitivity=IndTrans|VerbForm=Fin|TAMSeries=Pres|Subj=3Plur	3	conj	_	Translit=mosс’ons 
+9-10	მამიდაშენი	_		_	_	_	_	_	_
+9	მამიდა	მამიდა	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	8	obj	_	Translit=mamida
+10	შენი	შენი	PRON	_	PronType=Poss|Person=2|Number=Sing|Case=Nom	9	det	_	Translit=šeni
+11	!	!	PUNCT	_	_	3	punct	_	_
+#sent_id: 88									
+#text: — ტყუილია მაგი.									
+#transliteration: — t’q’uilia magi.									
+#ru_text: - Врешь!									
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	ტყუილია	ტყუილი	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	0	root	_	Translit=t’q’uilia 
+3	მაგი	მაგი	PRON	_	PronType=Dem|Person=3|Number=Sing|Case=Nom	2	det	_	Translit=magi
+4	.	.	PUNCT	_	_	2	punct	_	_
+#sent_id: 89									
+#text: შენ ქვეყანას მოსწონხარ, დათიკოსაც უყვარხარ.									
+#transliteration: šen kveq’anas mosс’onxar, datik’osaс uq’varxar.									
+#ru_text: Ты всем нравишься, и Датико любит тебя!									
+1	შენ	შენ	PRON	_	PronType=Pers|Number=Sing|Case=Nom	3	obj	_	Translit=šen 
+2	ქვეყანას	ქვეყანა	NOUN	_	Animacy=Anim|Number=Sing|Case=Dat	3	nsubj	_	Translit=kveq’anas 
+3	მოსწონხარ	მოსწონს	VERB	_	Aspect=Ipfv|Voice=Inact|Transitivity=IndTrans|VerbForm=Fin|TAMSeries=Pres|Subj=2Sing	0	root	_	Translit=mosс’onxar
+4	,	,	PUNCT	_	_	7	punct	_	_
+5-6	დათიკოსაც	_	_	_	_	_	_	_	_
+5	დათიკოს	დათიკო	PROPN		Animacy=Anim|Number=Sing|Case=Dat	7	nsubj	_	Translit=datik’os
+6	ც	ც	PART		_	7	advmod	_	Translit=с 
+7	უყვარხარ	უყვარს	VERB	_	Aspect=Ipfv|Voice=Inact|Transitivity=IndTrans|VerbForm=Fin|TAMSeries=Pres|Subj=2Sing	3	conj	_	Translit=uq’varxar
+8	.	.	PUNCT	_	_	3	punct	_	_
+#sent_id: 90									
+#text: — მერედა, გემეტები მაგისთვის?									
+#transliteration: — mereda, gemet’ebi magistvis?									
+#ru_text: - А он не нравится тебе. Так?									
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	მერედა	მერე	NOUN	_	Animacy=Inan|Number=Sing|Case=Advb	4	obl	_	Translit=mereda
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	გემეტები	ემეტება	VERB	_	Aspect=Ipfv|Voice=Inact|Transitivity=IndTrans|VerbForm=Fin|TAMSeries=Pres|Subj=2Sing	0	root	_	Translit=gemet’ebi 
+5-6	მაგისთვის	_	_	_	_	_	_	_	_
+5	მაგის	მაგი	PRON		PronType=Det|Number=Sing|Case=Gen	4	obl	_	Translit=magis
+6	თვის	თვის	ADP	_	_	5	case	_	Translit=tvis
+7	?	?	PUNCT	_	_	4	punct	_	_
+#sent_id: 91									
+#text: — არა.									
+#transliteration: — ara.									
+#ru_text: - Так!									
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	არა	არა	PART	_	_	0	root	_	Translit=ara
+3	.	.	PUNCT	_	_	2	punct	_	_
+#sent_id: 92									
+#text: — ჰოდა, დაიძინე ახლა!									
+#transliteration: — hoda, daiʒine axla!									
+#ru_text: - Ну и отлично. А теперь засни!									
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	ჰოდა	ჰოდა	PART	_	_	4	parataxis	_	Translit=hoda
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	დაიძინე	აძინებს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=AorImp|Subj=2Sing|ObjRole=Ben	0	root	_	Translit=daiʒine
+5	ახლა	ახლა	ADV	_	AdvType=Temp	4	advmod	_	Translit=axla
+6	!	!	PUNCT	_	_	4	punct	_	_
+#sent_id: 93									
+#text: მე ვიძინებ და მესიზმრება: მამიდაჩემი დგას სოფლის ეკლესიის წინ, თეთრ საქორწინო კაბაში გამოწყობილი, თეთრი, მაღალი, ღვთისმშობელივით ლამაზი.									
+#transliteration: me viʒineb da mesizmreba: mamidačemi dgas soplis ek’lesiis с’in, tetr sakorс’ino k’abaši gamoс’q’obili, tetri, maɣali, ɣvtismšobelivit lamazi.									
+#ru_text: Я засыпаю. Я вижу сон: перед нашей сельской церковкой в белом подвенечном платье стоит тетя - стройная, красивая, как божья матерь.									
+1	მე	მე	PRON	_	PronType=Pers|Person=1|Number=Sing|Case=Dat	2	nsubj	_	Translit=me
+2	ვიძინებ	აძინებს	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Pres|Subj=1Sing|ObjRole=Ben	0	root	_	Translit=viʒineb 
+3	და	და	CCONJ	_	_	4	cc	_	Translit=da
+4	მესიზმრება	ესიზმრება	VERB	_	Aspect=Ipfv|Voice=Inact|Transitivity=IndTrans|VerbForm=Fin|TAMSeries=Pres|Subj=1Sing	2	conj	_	Translit=mesizmreba
+5	:	:	PUNCT	_	_	2	punct	_	_
+6-7	მამიდაჩემი	_	_	_	_	_	_	_	_
+6	მამიდა	მამიდა	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	8	nsubj	_	Translit=mamida
+7	ჩემი	ჩემი	PRON	_	PronType=Poss|Number=Sing|Case=Nom	6	det	_	Translit=čemi
+8	დგას	დგას	VERB	_	Aspect=Ipfv|Voice=AutoAct|Transitivity=Intr|VerbForm=Fin|TAMSeries=Pres|Subj=3Sing	2	ccomp	_	Translit=dgas
+9	სოფლის	სოფელი	NOUN	_	Animacy=Inan|Number=Sing|Case=Gen	10	nmod	_	Translit=soplis
+10	ეკლესიის	ეკლესია	NOUN	_	Animacy=Inan|Number=Sing|Case=Gen	8	obl	_	Translit=ek’lesiis 
+11	წინ	წინ	ADV	_	AdvType=Loc	10	case	_	Translit=c’in
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	თეთრ	თეთრი	ADJ	_	Number=Sing|Case=Dat	15	amod	_	Translit=tetr
+14	საქორწინო	საქორწინო	ADJ	_	Number=Sing|Case=Dat	15	amod	_	Translit=sakorс’ino 
+15-16	კაბაში	_	_	_	_	_	_	_	_
+15	კაბას	კაბა	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	8	obl	_	Translit=k’abas
+16	ში	ში	ADP	_	_	15	case	_	Translit=ši 
+17	გამოწყობილი	გამოწყობილი	ADJ	_	Number=Sing|Case=Nom	6	amod	_	Translit=gamoс’q’obili
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	თეთრი	თეთრი	ADJ	_	Number=Sing|Case=Nom	6	amod	_	Translit=tetri
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	მაღალი	მაღალი	ADJ	_	Number=Sing|Case=Nom	6	amod	_	Translit=maɣali
+22	,	,	PUNCT	_	_	23	punct	_	_
+23-24	ღვთისმშობელივით	_	_	_	_	_	_	_	_
+23	ღვთისმშობელი	ღვთისმშობელი	NOUN		Animacy=Anim|Number=Sing|Case=Nom	6	obl		Translit=ɣvtismšobeli
+24	ვით	ვით	ADV			23	mark		Translit=vit 
+25	ლამაზი	ლამაზი	ADJ	_	Number=Sing|Case=Nom	23	amod	_	Translit=lamazi
+26	.	.	PUNCT	_	_	2	punct	_	_
+#sent_id: 94									
+#text: მის წინ დამხობილია მთელი სოფლის კაცები, ვეხვეწები, ნუ გათხოვდები-მეთქი, და იგი არავის არ მიყვება, იხდის საქორწინო კაბას, მოდის ჩემთან, მკიდებს ხელს და ერთად მივდივართ შინ.									
+#transliteration: mis с’in damxobilia mteli soplis k’aсebi, vexveс’ebi, nu gatxovdebi-metki, da igi aravis ar miq’veba, ixdis sakorс’ino k’abas, modis čemtan, mk’idebs xels da ertad mivdivart šin.									
+#ru_text: У ее ног - на коленях - все мужчины нашего села. Я тоже подхожу к ней, опускаюсь на колени и прошу, умоляю ее не выходить замуж. И тетя соглашается. Она снимает подвенечное платье, обнимает меня, и мы идем домой.									
+1	მის	იგი	PRON 	_	PronType=Pers|Person=3|Number=Sing|Case=Gen	3	obl	_	Translit=mis
+2	წინ	წინ	ADV	_	AdvType=Loc	1	case	_	Translit=с’in 
+3	დამხობილია	დამხობილი	ADJ	_	Case=Nom	0	root	_	Translit=damxobilia 
+4	მთელი	მთელი	ADJ	_	Number=Sing|Case=Gen	5	amod	_	Translit=mteli 
+5	სოფლის	სოფელი	NOUN	_	Animacy=Inan|Number=Sing|Case=Gen	6	nmod	_	Translit=soplis 
+6	კაცები	კაცი	NOUN	_	Animacy=Anim|Number=Plur|Case=Nom	3	nsubj	_	Translit=k’aсebi
+7	,	,	PUNCT	_	_	8	punct	_	_
+8	ვეხვეწები	ეხვეწება	VERB	_	Aspect=Ipfv|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Pres|Subj=1Sing|Obj=3|ObjRole=Rec	3	conj	_	Translit=vexveс’ebi
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	ნუ	ნუ	PART	_	_	11	advmod	_	Translit=nu
+11	გათხოვდები	თხოვდება	VERB	_	Aspect=Pfv|Voice=AutoAct|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Fut|Subj=2Sing	13	parataxis	_	Translit=gatxovdebi
+12	-	-	PUNCT	_	_	13	punct	_	_
+13	მეთქი	ეთქმება	VERB	_	Aspect=Pfv|Transitivity=IndTrans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=2Sing|Obj=1|ObjRole=Rec	3	conj		Translit=metki
+14	,	,	PUNCT	_	_	19	punct	_	_
+15	და	და	CCONJ	_	_	19	cc	_	Translit=da
+16	იგი	იგი	PRON	_	PronType=Pers|Person=3|Number=Sing|Case=Nom	19	nsubj	_	Translit=igi
+17	არავის	არავინ	PRON	_	PronType=Neg|Number=Sing|Case=Dat	19	obl	_	Translit=aravis
+18	არ	არ	PART	_	_	19	advmod	_	Translit=ar
+19	მიყვება	იყვება	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=IndTrans|VerbType=Din|VerbForm=Fin|TAMSeries=Pres|Subj=3Sing|Obj=1Sing|ObjRole=Rec	3	conj	_	Translit=miq’veba
+20	,	,	PUNCT	_	_	21	punct	_	_
+21	იხდის	იხდის	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Pres|Subj=3Sing|ObjRole=Ben	3	conj	_	Translit=ixdis 
+22	საქორწინო	საქორწინო	ADJ	_	Number=Sing|Case=Dat	21	amod	_	Translit=sakorс’ino 
+23	კაბას	კაბა	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	21	obj	_	Translit=k’abas
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	მოდის	მოდის	VERB	_	Transitivity=Intr|VerbForm=Fin|TAMSeries=Pres|Subj=3Sing	3	conj	_	Translit=modis
+26	ჩემთან	ჩემთან	ADV	_	_	25	advmod	_	Translit=čemtan
+27	,	,	PUNCT	_	_	28	punct	_	_
+28	მკიდებს	მოკიდებს	VERB	_	VerbForm=Fin|TAMSeries=Pres|Subj=3Sing|Obj=1	3	conj	_	Translit=mk’idebs 
+29	ხელს	ხელი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	29	obl	_	Translit=xels
+30	და	და	CCONJ	_	_	32	cc	_	Translit=da
+31	ერთად	ერთად	ADV	_	AdvType=Mod	32	advmod	_	Translit=ertad 
+32	მივდივართ	მიდის	VERB	_	Transitivity=Intr|VerbForm=Fin|TAMSeries=Pres|Subj=1Plur	3	conj	_	Translit=mivdivart
+33	შინ	შინ	ADV	_	AdvType=Loc	32	advmod	_	Translit=šin
+34	.	.	PUNCT	_	_	3	punct	_	_
+#sent_id: 95									
+#text: ალიონზე ფრთხილად ავდექი, მძინარე მამიდას ლოყაზე ვაკოცე, სამზარეულოში ჩავედი, საგზალი სკოლის ჩანთაში ჩავდე, ღარზე ჩავირბინე, პირზე წყალი შევისხი, მერე თოხი წყლიდან ამოვიღე, ტარი ჩანთის სახელურში გავუყარე და სოფლის ფოსტისკენ გავიქეცი.									
+#transliteration: alionze prtxilad avdeki, mʒinare mamidas loq’aze vak’oсe, samzareuloši čavedi, sagzali sk’olis čantaši čavde, ɣarze čavirbine, p’irze с’q’ali ševisxi, mere toxi с’q’lidan amoviɣe, t’ari čantis saxelurši gavuq’are da soplis post’isk’en gavikeсi.									
+#ru_text: Утром до полудня я занимался дома по хозяйству. Потом уложил завтрак в школьную сумку, сбежал к ручейку, взял мотыгу, продел ее черенок сквозь ручку сумки и помчался к почте.									
+1-2	ალიონზე	_		_	_	_	_	_	_
+1	ალიონს	ალიონი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	4	obl	_	Translit=alions
+2	ზე	ზე	ADP	_	_	1	case	_	Translit=ze
+3	ფრთხილად	ფრთხილად	ADV	_	AdvType=Mod	4	advmod	_	Translit=prtxilad 
+4	ავდექი	დგება	VERB	_	Aspect=Pfv|Voice=AutoAct|Transitivity=IndTrans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=1Sing	0	root	_	Translit=avdeki
+5	,	,	PUNCT	_	_	10	punct	_	_
+6	მძინარე	მძინარე	ADJ	_	Number=Sing|Case=Dat	7	amod	_	Translit=mʒinare 
+7	მამიდას	მამიდა	NOUN	_	Animacy=Anim|Number=Sing|Case=Dat	10	obj	_	Translit=mamidas 
+8-9	ლოყაზე	_	_	_	_	_	_	_	_
+8	ლოყას	ლოყა	NOUN	_	_	10	obl	_	Translit=loq’as
+9	ზე	ზე	ADP	_	_	8	case	_	Translit=ze
+10	ვაკოცე	აკოცებს	VERB	_	Aspect=Ipfv|Voice=AutoAct|Transitivity=Intr|VerbType=RelStat|VerbForm=Fin|TAMSeries=Aor|Subj=1Sing	4	conj	_	Translit=vak’oсe
+11	,	,	PUNCT	_	_	14	punct	_	_
+12-13	სამზარეულოში	_	_	_	_	_	_	_	_
+12	სამზარეულოს	სამზარეულოი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	14	obl	_	Translit=samzareulos
+13	ში	ში	ADP	_	_	12	case	_	Translit=ši 
+14	ჩავედი	ჩადის	VERB	_	Transitivity=Intr|VerbForm=Fin|TAMSeries=Aor|Subj=1Sing	4	conj	_	Translit=čavedi
+15	,	,	PUNCT	_	_	20	punct	_	_
+16	საგზალი	საგზალი	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	20	obj	_	Translit=sagzali 
+17	სკოლის	სკოლა	NOUN	_	Animacy=Inan|Number=Sing|Case=Gen	18	nmod	_	Translit=sk’olis 
+18-19	ჩანთაში	_	_	_	_	_	_	_	_
+18	ჩანთას	ჩანთა	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	20	obl	_	Translit=čantas
+19	ში	ში	ADP	_	_	18	case	_	Translit=ši 
+20	ჩავდე	დებს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=1Sing	4	conj	_	Translit=čavde
+21	,	,	PUNCT	_	_	24	punct	_	_
+22-23	ღარზე	_	_	_	_	_	_	_	_
+22	ღარს	ღარი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	24	obl	_	Translit=ɣars
+23	ზე	ზე	ADP	_	_	22	case	_	Translit=ze
+24	ჩავირბინე	მირბის	VERB	_	VerbForm=Fin|TAMSeries=Aor|Subj=1Sing	4	conj	_	Translit=čavirbine
+25	,	,	PUNCT	_	_	29	punct	_	_
+26-27	პირზე	_	_	_	_	_	_	_	_
+26	პირს	პირი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	29	obl	_	Translit=p’irs
+27	ზე	ზე	ADP	_	_	26	case	_	Translit=ze
+28	წყალი	წყალი	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	29	obj	_	Translit=с’q’ali 
+29	შევისხი	ისხამს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=1Sing	4	conj	_	Translit=ševisxi
+30	,	,	PUNCT	_	_	35	punct	_	_
+31	მერე	მერე	ADV	_	AdvType=Temp	35	advmod	_	Translit=mere
+32	თოხი	თოხი	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	35	obj	_	Translit=toxi
+33-34	წყლიდან	_	_	_	_	_	_	_	_
+33	წყალს	წყალი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	35	obl	_	Translit=с’q’als
+34	დან	დან	ADP	_	_	33	case	_	Translit=dan
+35	ამოვიღე	იღებს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Aor|Subj=1Sing|ObjRole=Ben	4	conj	_	Translit=amoviɣe
+36	,	,	PUNCT	_	_	41	punct	_	_
+37	ტარი	ტარი	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	41	obj	_	Translit=t’ari 
+38	ჩანთის	ჩანთა	NOUN	_	Animacy=Inan|Number=Sing|Case=Gen	37	nmod	_	Translit=čantis 
+39-40	სახელურში	_	_	_	_	_	_	_	_
+39	სახელურს	სახელური	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	41	obl	_	Translit=saxelurs
+40	ში	ში	ADP	_	_	39	case	_	Translit=ši 
+41	გავუყარე	ყარს	VERB	_	Aspect=Pfv|Voice=IndAct|Transitivity=Trans|VerbType=RelDin|VerbForm=Fin|TAMSeries=Aor|Subj=1Sing	4	conj	_	Translit=gavuq’are 
+42	და	და	CCONJ	_	_	46	cc	_	Translit=da
+43	სოფლის	სოფელი	NOUN	_	Animacy=Inan|Number=Sing|Case=Gen	44	nmod	_	Translit=soplis
+44-45	ფოსტისკენ	_	_	_	_	_	_	_	_
+44	ფოსტის	ფოსტა	NOUN		Animacy=Inan|Number=Sing|Case=Gen	46	obl		Translit=post’is
+45	კენ	კენ	ADP			44	case		Translit=k’en 
+46	გავიქეცი	იქცევა	VERB	_	Aspect=Pfv|Transitivity=Intr|VerbType=Din|VerbForm=Fin|TAMSeries=Aor	4	conj	_	Translit=gavikeсi
+47	.	.	PUNCT	_	_	4	punct	_	_
+#sent_id: 96									
+#text: მთელი ჩვენი ბრიგადა ფოსტის წინ იდგა თოხებზე დაყრდნობილი, ხალხს თავი მაღლა აეწია და ფოსტის სვეტზე გამოკიდებულ დაფლეთილ რადიოს უგდებდა ყურს. 									
+#transliteration: mteli čveni brigada post’is с’in idga toxebze daq’rdnobili, xalxs tavi maɣla aeс’ia da post’is svet’ze gamok’idebul dapletil radios ugdebda q’urs. 									
+#ru_text: Вся наша бригада уже была в сборе. Задрав головы, люди слушали радио. 									
+1	მთელი	მთელი	ADJ	_	Number=Sing|Case=Nom	3	det	_	Translit=mteli
+2	ჩვენი	ჩვენი	PRON	_	PronType=Poss|Person=1|Number=Plur|Case=Nom	3	det	_	Translit=čveni 
+3	ბრიგადა	ბრიგადა	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	6	nsubj	_	Translit=brigada
+4	ფოსტის	ფოსტა	NOUN	_	Animacy=Inan|Number=Sing|Case=Gen	6	obl	_	Translit=post’is 
+5	წინ	წინ	ADV	_	AdvType=Loc	4	case	_	Translit=с’in 
+6	იდგა	დგას	VERB	_	Aspect=Ipfv|Voice=AutoAct|Transitivity=Intr|VerbForm=FinTAMSeries=Aor|Subj=3Sing	0	root	_	Translit=idga
+7-8	თოხებზე	_	_	_	_	_	_	_	_
+7	თოხებს	თოხი	NOUN	_	Animacy=Inan|Number=Plur|Case=Dat	6	obl	_	Translit=toxebs
+8	ზე	ზე	ADP	_	_	7	case	_	Translit=ze
+9	დაყრდნობილი	დაყრდნობილი	ADJ	_	Number=Sing|Case=Nom	3	amod	_	Translit=daq’rdnobili
+10	,	,	PUNCT	_	_	14	punct	_	_
+11	ხალხს	ხალხი	NOUN	_	Animacy=Anim|Number=Sing|Case=Dat	14	nsubj	_	Translit=xalxs
+12	თავი	თავი	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	14	obj	_	Translit=tavi
+13	მაღლა	მაღლა	ADV	_	AdvType=Loc	14	advmod	_	Translit=maɣla
+14	აეწია	უწევს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=Res2|Subj=3Sing	6	conj	_	Translit=aeс’ia
+15	და	და	CCONJ	_	_	20	cc	_	Translit=da
+16	ფოსტის	ფოსტა	NOUN	_	Animacy=Inan|Number=Sing|Case=Gen	17	nmod	_	Translit=post’is 
+17-18	სვეტზე	_	_	_	_	_	_	_	_
+17	სვეტს	სვეტი	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	20	obl	_	Translit=svet’s
+18	ზე	ზე	ADP	_	_	17	case	_	Translit=ze
+17	გამოკიდებულ	გამოკიდებული	ADJ	_	Number=Sing|Case=Dat	19	amod	_	Translit=gamok’idebul
+18	დაფლეთილ	დაფლეთილი	ADJ	_	Number=Sing|Case=Dat	19	amod	_	Translit=dapletil
+19	რადიოს	რადიო	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	20	obj	_	Translit=radios
+20	უგდებდა	აგდებს	VERB	_	Aspect=Ipfv|Voice=Act|Transitivity=Trans|VerbType=Din|VerbForm=Fin|TAMSeries=FutCond|Subj=3Sing|Obj=3|ObjRole=Ben	6	conj	_	Translit=ugdebda
+21	ყურს	ყური	NOUN	_	Animacy=Inan|Number=Sing|Case=Dat	20	nmod	_	Translit=q’urs
+22	.	.	PUNCT	_	_	6	punct	_	_
+#sent_id: 97									
+#text: რეპროდუქტორი ცახცახებდა, ხრიალებდა და ხრინწიანი ხმით რაღაცას გადმოსცემდა.									
+#transliteration: rep’rodukt’ori сaxсaxebda, xrialebda da xrinс’iani xmit raɣaсas gadmosсemda.									
+#ru_text:  Висевший на столбе старый, изодранный репродуктор дрожал и хрипел.									
+1	რეპროდუქტორი	რეპროდუქტორი	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	2	nsubj	_	Translit=rep’rodukt’ori 
+2	ცახცახებდა	ცახცახებს	VERB	_	Aspect=Ipfv|Voice=AutoAct|Transitivity=Intr|VerbType=RelStat|TAMSeries=Imperf|Subj=3Sing	0	root	_	Translit=caxcaxebda
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	ხრიალებდა	ხრიალებს	VERB	_	Aspect=Ipfv|Voice=AutoAct|Transitivity=Intr|VerbType=RelStat|TAMSeries=Imperf|Subj=3Sing	2	conj	_	Translit=xrialebda 
+5	და	და	CCONJ	_	_	9	cc	_	Translit=da
+6	ხრინწიანი	ხრინწიანი	ADJ	_	Number=Sing|Case=Ins	7	amod	_	Translit=xrinс’iani 
+7	ხმით	ხმა	NOUN	_	Animacy=Inan|Number=Sing|Case=Ins	9	nmod	_	Translit=xmit
+8	რაღაცას	რაღაც	PRON	_	Number=Sing|Case=Dat	9	obj	_	Translit=raɣaсas 
+9	გადმოსცემდა	გადმოსცემს	VERB	_	VerbForm=Fin|TAMSeries=Imperf|Subj=3Sing	2	conj	_	Translit=gadmosсemda
+10	.	.	PUNCT	_	_	2	punct	_	_
+#sent_id: 98									
+#text: ყველა დუმდა. 									
+#transliteration: q’vela dumda. 									
+#ru_text: Было тихо.									
+1	ყველა	ყველა	PRON	_	PronType=Det|Number=Sing|Case=Nom	2	nsubj	_	Translit=q’vela 
+2	დუმდა	დუმს	VERB	_	Aspect=Ipfv|Voice=AutoAct|Transitivity=Intr|VerbType=RelStat|TAMSeries=Imperf|Subj=3Sing	0	root	_	Translit=dumda
+3	.	.	PUNCT	_	_	2	punct	_	_
+#sent_id: 99									
+#text:  მე რომ მივედი, რეპროდუქტორიც დადუმდა.									
+#transliteration: me rom mivedi, rep’rodukt’oriс dadumda.									
+#ru_text: Как только, я подошел к столбу, репродуктор умолк.									
+1	მე	მე	PRON	_	PronType=Pers|Person=1|Number=Sing|Case=Dat	3	nsubj	_	Translit=me
+2	რომ	რომ	SCONJ	_	_	3	mark	_	Translit=rom
+3	მივედი	მიდის	VERB	_	Transitivity=Intr|VerbForm=Fin|TAMSeries=Aor|Subj=1Sing	0	root	_	Translit=mivedi
+4	,	,	PUNCT	_	_	7	punct	_	_
+5-6	რეპროდუქტორიც	_	_	_	_	_	_	_	_
+5	რეპროდუქტორი	რეპროდუქტორი	NOUN	_	Animacy=Anim|Number=Sing|Case=Nom	7	nsubj		Translit=rep’rodukt’ori
+6	ც	ც	PART	_	_	5	advmod		Translit=c
+7	დადუმდა	დუმს	VERB	_	Aspect=Pfv|Voice=AutoAct|Transitivity=Intr|VerbForm=Fin|VerbType=RelStat|TAMSeries=Imperf|Subj=3Sing	3	conj	_	Translit=dadumda
+8	.	.	PUNCT	_	_	3	punct	_	_
+#sent_id: 100									
+#text: — გამარჯობათ თქვენი! — ხმა არავის გაუცია.									
+#transliteration: — gamarǯobat tkveni! — xma aravis gauсia.									
+#ru_text: - Здравствуйте, земляки! - приветствовал я собравшихся. Никто мне не ответил.									
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	გამარჯობათ	გამარჯობათ	NOUN	_	Animacy=Inan|Number=Plur|Case=Dat	0	root	_	Translit=gamarǯobat 
+3	თქვენი	თქვენ	PRON	_	PronType=Pers|Person=2|Number=Plur|Case=Dat	2	parataxis	_	Translit=tkveni
+4	!	!	PUNCT	_	_	2	punct	_	_
+5	—	—	PUNCT	_	_	6	punct	_	_
+6	ხმა	ხმა	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	8	obj	_	Translit=xma
+7	არავის	არავინ	PRON	_	PronType=Neg|Number=Sing|Case=Dat	8	nsubj	_	Translit=aravis
+8	გაუცია	ცავს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbForm=Fin|VerbType=Din|TAMSeries=Resl|Subj=3Sing	2	parataxis	_	Translit=gauсia
+9	.	.	PUNCT	_	_	2	punct	_	_
+#sent_id: 101									
+#text: — გამარჯობა, ხალხო, თქვენი! — გავიმეორე გაუბედავად.									
+#transliteration: — gamarǯoba, xalxo, tkveni! — gavimeore gaubedavad.									
+#ru_text: - Здравствуйте, люди! - повторил я.									
+1	—	—	PUNCT	_	_	2	punct	_	_
+2	გამარჯობა	გამარჯობა	NOUN	_	Animacy=Inan|Number=Sing|Case=Nom	0	root	_	Translit=გამარჯობა
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	ხალხო	ხალხი	NOUN	_	Animacy=Anim|Number=Sing|Case=Voc	2	parataxis	_	Translit=xalxo
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	თქვენი	თქვენ	PRON	_	PronType=Pers|Person=2|Number=Plur|Case=Dat	2	parataxis	_	Translit=tkveni
+7	!	!	PUNCT	_	_	6	punct	_	_
+8	—	—	PUNCT	_	_	9	punct	_	_
+9	გავიმეორე	იიმეორებს	VERB	_	Aspect=Pfv|Voice=Act|Transitivity=Trans|VerbType=Din|TAMSeries=Aor|Subj=1Sing|ObjRole=Ben	2	parataxis	_	Translit=gavimeore 
+10	გაუბედავად	გაუბედავად	ADV	_	_	9	advmod	_	Translit=gaubedavad
+11	.	.	PUNCT	_	_	2	punct	_	_
